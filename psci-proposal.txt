@@ -20,23 +20,27 @@ Etc. What is a one that would make a pretty big splash? Or okay, maybe
 you just implement. *Erat volutpat. Maecenas fringilla purus non
 tortor porta at convallis lacus lacinia.*
 
-## Strategies
+## Strategies (ENGAGE Section 1)
 
-Guidance on how to implement e-triggers. *Donec semper posuere
-suscipit. Duis ac enim eu diam adipiscing venenatis eu id sapien.
-Praesent pharetra vestibulum massa, condimentum tincidunt sem posuere
-ac.*
+Guidance on how to implement e-triggers. We will have the following:
+general meetings, didactic type techincal sessions, office hours,
+email, clinical interpretation sessions. Who is ultimately going to
+get the data, meaning who are the ones who do something with it?
+(Primary care, hospitalists, ER, etc.)
 
-## Review cases
+## Review cases (ENGAGE Section 2)
 
-Fusce id nisi lorem, quis rutrum metus. Proin quis diam nisl, sit amet
-adipiscing dui. Mauris egestas risus nec enim adipiscing interdum.
-Mauris porttitor tortor sit amet purus elementum accumsan.
+This is an important step. We have checked these in other VAs, and the
+accuracy or clinical relevance varies. Sometimes lots of false positives,
+sometimes good an interesting signal. Decide *who* will review cases.
+The IT people need to know names of people and a means to send cases
+for review. How many do you have the capacity to review? (No right answer.)
 
-## Assess implementation
+## Assess implementation (ENGAGE Sections 3-4)
 
-How was it used for (1) analysis, (2) feedback, (3) learning? Deliver
-what other VAs need to know:
+How was it used for (1) analysis, (2) feedback, (3) learning? Was
+change package appropriate given the interviews we did at your
+facility? Deliver what other VAs need to know:
 
 - best practices to measure, improve, create metrics for dx safety
 - strategies
