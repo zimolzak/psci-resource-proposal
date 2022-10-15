@@ -1,6 +1,6 @@
 # PSCI Proposal
 
-Author
+Nnnn Nnnnn, PhD. Andrew Zimolzak, MD, MMSc.
 
 2022-10-15
 
@@ -24,7 +24,7 @@ measurement strategies.
 ## Strategies (ENGAGE Section 1)
 
 Guidance on how to implement e-triggers. We will have the following:
-general meetings, didactic type techincal sessions, office hours,
+general meetings, didactic type technical sessions, office hours,
 email, clinical interpretation sessions. Who is ultimately going to
 get the data, meaning who are the ones who do something with it?
 (Primary care, hospitalists, ER, etc.)
@@ -43,9 +43,9 @@ How was it used for (1) analysis, (2) feedback, (3) learning? Was
 change package appropriate given the interviews we did at your
 facility? Deliver what other VAs need to know:
 
-- best practices to measure, improve, create metrics for dx safety
-- strategies
-- action steps
-- software
-- documentation
-- e-triggers performance to VA’s centralized phenomics resource
+- Best practices to create and improve metrics for diagnostic safety
+- Strategies
+- Action steps
+- Software
+- Documentation
+- E-trigger performance for VA’s Centralized Phenomics Resource
