@@ -55,7 +55,4 @@ blandit. Cras suscipit interdum turpis eget condimentum. Mauris et
 tortor a mauris hendrerit fringilla quis id est. Praesent nec augue in
 nisl cursus ultrices. Etiam nibh nisl, suscipit ut pharetra id,
 laoreet in neque. Ut et enim tellus, nec auctor arcu. Pellentesque
-justo diam, luctus et euismod non, dignissim sit amet nibh. Sed
-consequat enim nec ligula auctor placerat congue orci tincidunt. Cras
-quis lacus sed justo blandit ullamcorper quis at lorem. Sed libero
-massa, gravida eu adipiscing vel, ultrices eget est.
+justo diam, luctus et euismod non, dignissim sit amet nibh.
