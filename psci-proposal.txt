@@ -7,49 +7,65 @@ Author
 ## Prepare
 
 Organizations are different. Bigger, smaller. Start off with *someone*
-interested, but different levels of that. *Venenatis id, pellentesque
-sit amet nisl. Nunc vel arcu vitae neque varius volutpat id in tortor.
-Nulla quam lacus, vestibulum eget consectetur et, accumsan non turpis.
-Nulla facilisi. Proin ligula nisl, luctus sit amet convallis dictum,
-vulputate ut arcu. Donec tristique, nibh et egestas semper, metus
-lectus laoreet mi.*
+interested, but different levels of that. It is about VA facilities.
+Say "Safer Dx ENGAGE."
+
+*Venenatis id, pellentesque sit amet nisl. Nunc vel arcu vitae neque
+varius volutpat id in tortor. Nulla quam lacus, vestibulum eget
+consectetur et, accumsan non turpis. Nulla facilisi. Proin ligula
+nisl, luctus sit amet convallis dictum, vulputate ut arcu. Donec
+tristique, nibh et egestas semper, metus lectus laoreet mi.*
 
 ## Self Assessment
 
 Pretty much use the instrument. How to interpret it. What do you make
 of it? What are your priorities? What settings? Could be inpatient.
-Etc. What is a one that would make a pretty big splash? *Erat
-volutpat. Maecenas fringilla purus non tortor porta at convallis lacus
-lacinia. Nam non est odio. Cras ut est neque, et porta velit. Maecenas
-dignissim nulla ut risus posuere egestas. Mauris laoreet massa in elit
-viverra varius.*
+Etc. What is a one that would make a pretty big splash? Or okay, maybe
+you just implement.
+
+*Erat volutpat. Maecenas fringilla purus non tortor porta at convallis
+lacus lacinia. Nam non est odio. Cras ut est neque, et porta velit.
+Maecenas dignissim nulla ut risus posuere egestas. Mauris laoreet
+massa in elit viverra varius.*
 
 ## Strategies
 
-Donec semper posuere suscipit. Duis ac enim eu diam adipiscing
+Guidance on how to implement e-triggers.
+
+*Donec semper posuere suscipit. Duis ac enim eu diam adipiscing
 venenatis eu id sapien. Praesent pharetra vestibulum massa,
 condimentum tincidunt sem posuere ac. Aenean laoreet, justo quis
-fringilla facilisis, justo diam cursus nisl, ut sodales tellus turpis
-in neque. Vestibulum ante ipsum primis in faucibus orci luctus et
-ultrices posuere cubilia Curae; Sed consequat ante quis mauris
-ullamcorper eget gravida nisl ultricies.
+fringilla facilisis, justo diam cursus nisl, ut sodales tellus
+turpis.*
 
 ## Review cases
 
 Fusce id nisi lorem, quis rutrum metus. Proin quis diam nisl, sit amet
 adipiscing dui. Mauris egestas risus nec enim adipiscing interdum.
 Mauris porttitor tortor sit amet purus elementum accumsan. Maecenas
-faucibus scelerisque auctor. In hac habitasse platea dictumst. Duis ut
-tellus turpis. Fusce suscipit elit a felis sodales at vestibulum dolor
-scelerisque. Morbi libero magna, porta nec porta ac, mollis sed
+faucibus scelerisque auctor. In hac habitasse platea.
 mauris.
 
-## What worked
+## Assess implementation
 
-Nam turpis ligula, condimentum ac egestas a, mollis nec ante. Sed ut
-est neque, vitae tempus lectus. Ut non rutrum quam. Etiam malesuada
-ornare mi. Sed volutpat dui quis eros ullamcorper quis volutpat ipsum
-rutrum. Integer tincidunt quam in arcu condimentum eu adipiscing nulla
-blandit. Cras suscipit interdum turpis eget condimentum. Mauris et
-tortor a mauris hendrerit fringilla quis id est. Praesent nec augue in
-nisl cursus ultrices.
+How was it used for:
+
+- analysis
+- feedback
+- learning
+
+### Deliver what other VAs need to know
+
+- best practices to measure, improve, and create accountability
+ metrics for diagnostic safety.
+
+- strategies
+
+- action steps
+
+- software
+
+- documentation
+
+- Diagnostic error e-triggers and their performance data to VA’s
+  centralized phenomics resource
