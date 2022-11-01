@@ -41,13 +41,14 @@ health information technology in complex adaptive healthcare systems.
 
 # Self Assessment
 
-FIXME
+The *Safer Dx Checklist* will provide a framework for this step.[^check] Each
+DISCovery site will determine its priorities and how e-triggers could
+be employed to have the most impact. Sites will select one or more
+measurement strategies, and they will ensure that sufficient resources
+are available for diagnostic safety measurement activities.
 
-Pretty much use the instrument. How to interpret it. What do you make
-of it? What are your priorities? What is a one that would make a
-pretty big splash? Or okay, maybe you just implement. Ensure that
-sufficient resources are available for diagnostic safety measurement
-activities. Select one or more measurement strategies.
+[^check]: Institute for Healthcare Improvement. Safer Dx Checklist: 10
+High-Priority Practices for Diagnostic Excellence.
 
 
 
@@ -58,9 +59,10 @@ The Houston-based team will provide guidance on how to implement
 e-triggers. We will host the following: general meetings,
 didactic-style technical sessions for programmers and data managers,
 office hour sessions for high-throughput question/answer, email, and
-clinical interpretation sessions.[^transl] Each DISCovery site should decide
-who within the organization is ultimately going to receive the data,
-meaning who is going to take action based on it.[^feedback]
+clinical interpretation sessions.[^transl] Each DISCovery site should
+decide who within the organization is ultimately going to receive the
+data, meaning who is going to take action based on it.[^feedback] See
+also: VA's *Communication Of Test Results Toolkit*.
 
 [^transl]: Zimolzak AJ, Singh H, Murphy DR, *et al*. Translating electronic
 health record-based patient safety algorithms from research to
