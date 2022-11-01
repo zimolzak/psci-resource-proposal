@@ -87,7 +87,7 @@ decide *who* will review cases, as the data managers and programmers
 need to know names of individual reviewers and a means to send cases
 for review. Sites will determine how many cases they have the capacity
 to review. Lastly, the *Revised Safer Dx Instrument*[^rsdi] will be
-central to determining the presence/abscence of missed opportunities
+central to determining the presence/absence of missed opportunities
 for diagnosis.
 
 [^rsdi]: Singh H, Khanna A, Spitzmueller C, Meyer AND. Recommendations
