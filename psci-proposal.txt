@@ -10,7 +10,12 @@ measurement tools in practice and leverage the knowledge gained.
 Specifically, the "Diagnosis Improvement Safety Center" (DISCovery)
 will develop the Safer Dx e-trigger change package, called **Safer Dx
 ENGAGE,** to disseminate measurement of diagnostic errors in primary
-care.
+care. Broadly, the process will follow the *Measure Dx*
+Resource.[^measuredx]
+
+[^measuredx]: Bradford A, Singh H. Measure Dx: A Resource To Identify,
+Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
+22-0030. May 2022.
 
 
 
@@ -29,12 +34,14 @@ will not lead to improvements.[^socio]
 
 [^socio]: Sittig DF, Singh H. A new sociotechnical model for studying
 health information technology in complex adaptive healthcare systems.
-*Quality and Safety in Health Care*. 2010;19(Suppl 3):i68-i74.
+*Quality and Safety in Health Care*. 2010;19(Suppl 3):i68--i74.
 
 
 
 
 ## Self Assessment
+
+FIXME
 
 Pretty much use the instrument. How to interpret it. What do you make
 of it? What are your priorities? What is a one that would make a
@@ -47,35 +54,71 @@ activities. Select one or more measurement strategies.
 
 ## Strategies (ENGAGE Section 1)
 
-Guidance on how to implement e-triggers. We will have the following:
-general meetings, didactic type technical sessions, office hours,
-email, clinical interpretation sessions. Who is ultimately going to
-get the data, meaning who are the ones who do something with it?
-(Primary care, hospitalists, ER, etc.)
+The Houston-based team will provide guidance on how to implement
+e-triggers. We will host the following: general meetings,
+didactic-style technical sessions for programmers and data managers,
+office hour sessions for high-throughput question/answer, email, and
+clinical interpretation sessions.[^transl] Each DISCovery site should decide
+who within the organization is ultimately going to receive the data,
+meaning who is going to take action based on it.[^feedback]
+
+[^transl]: Zimolzak AJ, Singh H, Murphy DR, *et al*. Translating electronic
+health record-based patient safety algorithms from research to
+clinical practice at multiple sites. *BMJ Heal Care Informatics*.
+2022;29(1):e100565.
+
+[^feedback]: Meyer AND, Upadhyay DK, Collins CA, Fitzpatrick MH, Kobylinski M,
+Bansal AB, Torretti D, Singh H. A program to provide clinicians with
+feedback on their diagnostic performance in a learning health system.
+*Jt Comm J Qual Saf* 2021;47:120--26
+
 
 
 
 
 ## Review cases (ENGAGE Section 2)
 
+FIXME
+
 This is an important step. We have checked these in other VAs, and the
 accuracy or clinical relevance varies. Sometimes lots of false positives,
 sometimes good an interesting signal. Decide *who* will review cases.
 The IT people need to know names of people and a means to send cases
-for review. How many do you have the capacity to review? (No right answer.)
+for review. How many do you have the capacity to review? (No right
+answer.) In particular, the *Revised Safer Dx Instrument*[^rsdi] will be
+central to determining the presence/abscence of missed opportunities
+for diagnosis.
+
+[^rsdi]: Singh H, Khanna A, Spitzmueller C, Meyer AND. Recommendations
+for using the Revised Safer Dx Instrument to help measure and improve
+diagnostic safety. *Diagnosis (Berl)*. 2019 Nov 26;6(4):315--23.
 
 
 
 
 ## Assess implementation (ENGAGE Sections 3-4)
 
-How was it used for (1) analysis, (2) feedback, (3) learning? Was
-change package appropriate given the interviews we did at your
-facility? Deliver what other VAs need to know:
+The DISCovery sites will reflect on the process in cooperation with
+the Houston team and determine how the process was used for (1)
+analysis, (2) feedback, and (3) learning. In other words, was *Safer
+Dx ENGAGE* appropriate for the task, given the interviews we did at
+your facility to develop it? The end result of this step is to deliver
+what *other VAMCs* may need to know, including:
 
 - Best practices to create and improve metrics for diagnostic safety
+
 - Strategies
+
 - Action steps
+
 - Software
+
 - Documentation
-- E-trigger performance for VA’s Centralized Phenomics Resource
+
+- E-trigger performance statistics for VA's Centralized Phenomics
+Resource[^cipher]
+
+[^cipher]: Honerlaw J, Ho YL, Fontin F, *et al*. Development of the
+Centralized Interactive Phenomics Resource (CIPHER) Standard for
+Electronic Health Data-Based Phenomics Knowledgebase. *MedRxiv*.
+Published online 2022:2022.09.12.22279792.
