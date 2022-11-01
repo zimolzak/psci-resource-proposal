@@ -80,14 +80,13 @@ feedback on their diagnostic performance in a learning health system.
 
 # Review cases (ENGAGE Section 2)
 
-FIXME
-
-This is an important step. We have checked these in other VAs, and the
-accuracy or clinical relevance varies. Sometimes lots of false positives,
-sometimes good an interesting signal. Decide *who* will review cases.
-The IT people need to know names of people and a means to send cases
-for review. How many do you have the capacity to review? (No right
-answer.) In particular, the *Revised Safer Dx Instrument*[^rsdi] will be
+This is an important step to ensuring e-trigger accuracy. We have
+performed this process in other VAMCs, and the accuracy or clinical
+relevance of e-triggers varies from site to site. DISCovery sites will
+decide *who* will review cases, as the data managers and programmers
+need to know names of individual reviewers and a means to send cases
+for review. Sites will determine how many cases they have the capacity
+to review. Lastly, the *Revised Safer Dx Instrument*[^rsdi] will be
 central to determining the presence/abscence of missed opportunities
 for diagnosis.
 
