@@ -17,6 +17,10 @@ Resource.[^measuredx]
 Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
 22-0030. May 2022.
 
+**FIXME:** People are going to need guidance to run triggers to start
+with, even in VA. So probably split out the parts that are about
+*making* the change package.
+
 
 
 
@@ -41,14 +45,25 @@ health information technology in complex adaptive healthcare systems.
 
 # Self Assessment
 
-The *Safer Dx Checklist* will provide a framework for this step.[^check] Each
-DISCovery site will determine its priorities and how e-triggers could
+The *Measure Dx* readiness checklist will provide a framework for this
+step.[^measuredx] Each DISCovery site will determine its priorities and how e-triggers could
 be employed to have the most impact. Sites will select one or more
 measurement strategies, and they will ensure that sufficient resources
 are available for diagnostic safety measurement activities.
 
-[^check]: Institute for Healthcare Improvement. Safer Dx Checklist: 10
-High-Priority Practices for Diagnostic Excellence.
+Also add Measure Dx page 9, "Questions" box all from strategy D which
+is EHR:
+
+- Does your HCO have an EHR data warehouse or equivalent system for EHR queries?
+
+- Is there a person who can access the data warehouse and can support the team with EHR queries?
+
+- Is there a team member who understands clinical data quality/validation?
+
+- Does the HCO have a coordinated process for requesting EHR data, running queries, and generating reports?
+
+
+
 
 
 
