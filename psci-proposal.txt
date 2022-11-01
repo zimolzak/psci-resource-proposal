@@ -21,7 +21,11 @@ Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
 with, even in VA. So probably split out the parts that are about
 *making* the change package.
 
+FIXME. move the things with "aims and tasks" into slides. don't worrrry about PSCI aim 3. need 5--6 slides.
 
+FIXME basically take out about Houston Team. more va specific. more primary care specific. some more technical about how to write (or use) the query.
+
+FIXME also base a little on Calibration/5a resource proposal docx from ANDM sent 2022-11-01.
 
 
 # Prepare
@@ -78,6 +82,8 @@ clinical interpretation sessions.[^transl] Each DISCovery site should
 decide who within the organization is ultimately going to receive the
 data, meaning who is going to take action based on it.[^feedback] See
 also: VA's *Communication Of Test Results Toolkit*.
+
+FIXME really just the 1 strategy.
 
 [^transl]: Zimolzak AJ, Singh H, Murphy DR, *et al*. Translating electronic
 health record-based patient safety algorithms from research to
