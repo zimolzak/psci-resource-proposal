@@ -20,7 +20,7 @@ Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
 
 
 
-## Prepare
+# Prepare
 
 All organizations---including VA Medical Centers---are different.
 Change and implementation should start with someone interested and
@@ -39,7 +39,7 @@ health information technology in complex adaptive healthcare systems.
 
 
 
-## Self Assessment
+# Self Assessment
 
 FIXME
 
@@ -52,7 +52,7 @@ activities. Select one or more measurement strategies.
 
 
 
-## Strategies (ENGAGE Section 1)
+# Strategies (ENGAGE Section 1)
 
 The Houston-based team will provide guidance on how to implement
 e-triggers. We will host the following: general meetings,
@@ -76,7 +76,7 @@ feedback on their diagnostic performance in a learning health system.
 
 
 
-## Review cases (ENGAGE Section 2)
+# Review cases (ENGAGE Section 2)
 
 FIXME
 
@@ -96,7 +96,7 @@ diagnostic safety. *Diagnosis (Berl)*. 2019 Nov 26;6(4):315--23.
 
 
 
-## Assess implementation (ENGAGE Sections 3-4)
+# Assess implementation (ENGAGE Sections 3-4)
 
 The DISCovery sites will reflect on the process in cooperation with
 the Houston team and determine how the process was used for (1)
