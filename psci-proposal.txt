@@ -1,25 +1,49 @@
-# PSCI Proposal
+% PSCI Proposal
+% Andrew Zimolzak, MD, MMSc
+% 2022-11-01
 
-Nnnn Nnnnn, PhD. Andrew Zimolzak, MD, MMSc.
+This VA Patient Safety Center of Inquiry focuses on measurement of
+patient safety. Prior work has developed *e-triggers,* which enable
+the measurement of diagnostic safety issues via electronic health
+record data, whereas the current work will **implement** these
+measurement tools in practice and leverage the knowledge gained.
+Specifically, the "Diagnosis Improvement Safety Center" (DISCovery)
+will develop the Safer Dx e-trigger change package, called **Safer Dx
+ENGAGE,** to disseminate measurement of diagnostic errors in primary
+care.
 
-2022-10-15
+
+
 
 ## Prepare
 
-Organizations are different. Bigger, smaller. Start off with *someone*
-interested, but different levels of that. It is about VA facilities.
-Say "Safer Dx ENGAGE." Engage leadership and other stakeholders
-throughout the organization, build a team, and foster psychological
-safety.
+All organizations---including VA Medical Centers---are different.
+Change and implementation should start with someone interested and
+invested, but they may have different interests or roles within the
+organization. The Safer Dx team and the champion will engage
+leadership and other stakeholders throughout the organization, build a
+team, and foster psychological safety. Implementation of new
+measurement strategies and change approaches must account for
+organizational and other non-technical issues, or electronic tools
+will not lead to improvements.[^socio]
+
+[^socio]: Sittig DF, Singh H. A new sociotechnical model for studying
+health information technology in complex adaptive healthcare systems.
+*Quality and Safety in Health Care*. 2010;19(Suppl 3):i68-i74.
+
+
+
 
 ## Self Assessment
 
 Pretty much use the instrument. How to interpret it. What do you make
-of it? What are your priorities? What settings? Could be inpatient.
-Etc. What is a one that would make a pretty big splash? Or okay, maybe
-you just implement. Ensure that sufficient resources are available for
-diagnostic safety measurement activities. Select one or more
-measurement strategies.
+of it? What are your priorities? What is a one that would make a
+pretty big splash? Or okay, maybe you just implement. Ensure that
+sufficient resources are available for diagnostic safety measurement
+activities. Select one or more measurement strategies.
+
+
+
 
 ## Strategies (ENGAGE Section 1)
 
@@ -29,6 +53,9 @@ email, clinical interpretation sessions. Who is ultimately going to
 get the data, meaning who are the ones who do something with it?
 (Primary care, hospitalists, ER, etc.)
 
+
+
+
 ## Review cases (ENGAGE Section 2)
 
 This is an important step. We have checked these in other VAs, and the
@@ -36,6 +63,9 @@ accuracy or clinical relevance varies. Sometimes lots of false positives,
 sometimes good an interesting signal. Decide *who* will review cases.
 The IT people need to know names of people and a means to send cases
 for review. How many do you have the capacity to review? (No right answer.)
+
+
+
 
 ## Assess implementation (ENGAGE Sections 3-4)
 
