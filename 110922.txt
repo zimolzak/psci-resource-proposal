@@ -209,85 +209,21 @@ their plan for measurement.
 
 
 
+## Results
 
-----------------------------------+
- **RESULTS**                      |
-                                  |
- None **-** few items             |
- checked**:** Start small.        |
- Consider using one strategy in a |
- limited capacity (e.g., pilot    |
- test on a single unit)           |
-                                  |
-                                  |
-==================================+
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-----------------------------------+
- Several items checked: Consider  |
- using one or more of the         |
- strategies below or focus on     |
- broad implementation of a single |
- measurement strategy             |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-----------------------------------+
- Most/all items checked: You seem |
- well positioned to use multiple  |
- measurement strategies from the  |
- list below                       |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-----------------------------------+
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
-                                  |
+- Few to no items checked: Start small. Consider using one strategy in
+  a limited capacity (e.g., pilot test on a single unit)
+
+- Several items checked: Consider using one or more of the strategies
+  below or focus on broad implementation of a single measurement
+  strategy
+
+- Most/all items checked: You seem well positioned to use multiple
+  measurement strategies from the list below
 
 
 
-
-
-Participating VA facilities may use the strategy of leveraging the
-capabilities of their EHRs to inform their measurement of diagnostic
+Participating VA facilities may use EHR data to inform their measurement of diagnostic
 safety. This approach could also be augmented with the strategy of
 soliciting information about diagnostic safety directly from clinicians.
 
