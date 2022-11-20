@@ -4,10 +4,10 @@ files = psci-proposal.pdf psci-proposal.docx
 
 all: $(files)
 
-%.pdf: %.txt
+psci-proposal.pdf: README.md
 	pandoc -o $@ $<
 
-%.docx: %.txt
+psci-proposal.docx: README.md
 	pandoc -o $@ $<
 
 clean:
