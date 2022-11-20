@@ -34,7 +34,7 @@ measurement of their use and effectiveness at the sites.
 The project comprises two main aims. Aim 1 involves developing and
 testing the Safer Dx ENGAGE change package and Aim 2 is the assessment
 of the implementation and use of the triggers. Broadly, the process will
-follow the *Measure Dx* Resource.[^1]
+follow the *Measure Dx* Resource.[^measuredx]
 
 Aim 1: Develop and pilot test a Safer Dx ENGAGE change package to
 provide VA facilities guidance on how to implement e-triggers in primary
@@ -49,7 +49,7 @@ additions to current practices at participating centers to prepare for
 the implementation of the Safer Dx e-triggers. Implementation of new
 measurement strategies and change approaches must account for
 organizational and other non-technical issues, or electronic tools will
-not lead to improvements.[^2]
+not lead to improvements.[^socio]
 
 Successful projects depend on buy-in from the user community of an
 organization. A structured change management process outlined in the
@@ -142,7 +142,7 @@ knowledge of their field to inform the e-trigger content development:
 
 Each DISCovery site will determine its priorities and how e-triggers
 could be employed to have the most impact. The *Measure Dx Checklist*
-will provide a framework for this step.[^3] Sites will select one or
+will provide a framework for this step.[^measuredx] Sites will select one or
 more measurement strategies, and they will ensure that sufficient
 resources are available for diagnostic safety measurement activities.
 Sites must ensure sufficient personnel and technical resources are
@@ -268,7 +268,7 @@ Dx ENGAGE change package.
 
 A series of interviews will be conducted by the PSCI IQuESt team?
 with members of the three stakeholder groups with questions guided by
-the eight-dimensional sociotechnical model^6^. Interviews with members
+the eight-dimensional sociotechnical model[^socio]. Interviews with members
 of the 3 stakeholder groups will be conducted with a snowball sampling
 approach until qualitative saturation of themes is achieved. The data
 will be analyzed using established qualitative techniques to identify
@@ -301,11 +301,11 @@ PSCI IQuESt team will host the following:
     to the own data.
 
 4.  Office hour sessions: to enable connecting with the PSCI IQuESt
-    team for high-throughput question/answers and email responses. [^4]
+    team for high-throughput question/answers and email responses. [^translating]
 
 Each DISCovery site should decide who within the organization is
 ultimately going to receive the data, meaning who is going to take
-action based on it.[^5] This will aid understanding the format in which
+action based on it.[^feedback] This will aid understanding the format in which
 recipients wish to receive the data generated, as well as ensuring all
 the data elements needed by recipients will be retrieved by the
 e-trigger code.
@@ -367,7 +367,7 @@ Additionally, the data managers and programmers need to be familiar with
 individual reviewers, as well as the means to send cases for review. It
 is therefore essential to a smooth e-trigger validation process that
 these members of the team communicate and work together in a cohesive
-and integrated way. Lastly, the *Revised Safer Dx Instrument*[^6] will
+and integrated way. Lastly, the *Revised Safer Dx Instrument*[^rsdi] will
 be central to determining the presence/absence of missed opportunities
 for diagnosis.
 
@@ -432,7 +432,7 @@ know, including:
     documented and provided to the site project team and stakeholders.
 
 6. E-trigger performance statistics for VA's Centralized Phenomics
-    Resource[^7]
+    Resource[^cipher]
 
 The aim of this step is to recommend ways that users can choose a
 diagnostic safety target considering organization priorities, available
@@ -443,38 +443,30 @@ organizations.
 
 
 
-[^1]: Bradford A, Singh H. Measure Dx: A Resource To Identify, Analyze,
+[^measuredx]: Bradford A, Singh H. Measure Dx: A Resource To Identify, Analyze,
     and Learn From Diagnostic Safety Events. AHRQ Publication 22-0030.
     May 2022.
 
-[^2]: Sittig DF, Singh H. A new sociotechnical model for studying health
+[^socio]: Sittig DF, Singh H. A new sociotechnical model for studying health
     information technology in complex adaptive healthcare systems.
     *Quality and Safety in Health Care*. 2010;19(Suppl 3):i68--i74.
 
-[^3]: Agency for Healthcare Research and Quality. Measure Dx: A Resource
-    to Identify, Analyze and Learn From Diagnostic Safety Events
+[^translating]: Zimolzak AJ, Singh H, Murphy DR, *et al*. Translating
+    electronic health record-based patient safety algorithms from
+    research to clinical practice at multiple sites. *BMJ Heal Care
+    Informatics*. 2022;29(1):e100565.
 
-[^4]: Zimolzak AJ, Singh H, Murphy DR, *et al*. Translating electronic
-    health record-based patient safety algorithms from research to
-    clinical practice at multiple sites. *BMJ Heal Care Informatics*.
-    2022;29(1):e100565.
-
-[^5]: Meyer AND, Upadhyay DK, Collins CA, Fitzpatrick MH, Kobylinski M,
+[^feedback]: Meyer AND, Upadhyay DK, Collins CA, Fitzpatrick MH, Kobylinski M,
     Bansal AB, Torretti D, Singh H. A program to provide clinicians with
     feedback on their diagnostic performance in a learning health
     system. *Jt Comm J Qual Saf* 2021;47:120--26
 
-    ^6^Sittig DF, Singh H. A new sociotechnical model for studying
-    health information technology in complex adaptive healthcare
-    systems. Qual Saf Health Care. 2010 Oct;19 Suppl 3(Suppl 3):i68-74.
-    doi: 10.1136/qshc.2010.042085. PMID: 20959322; PMCID: PMC3120130.
-
-[^6]: ^7^ Singh H, Khanna A, Spitzmueller C, Meyer AND. Recommendations
+[^rsdi]: Singh H, Khanna A, Spitzmueller C, Meyer AND. Recommendations
     for using the Revised Safer Dx Instrument to help measure and
     improve diagnostic safety. *Diagnosis (Berl)*. 2019 Nov
     26;6(4):315--23.
 
-[^7]: ^8^ Honerlaw J, Ho YL, Fontin F, *et al*. Development of the
+[^cipher]: Honerlaw J, Ho YL, Fontin F, *et al*. Development of the
     Centralized Interactive Phenomics Resource (CIPHER) Standard for
     Electronic Health Data-Based Phenomics Knowledgebase. *MedRxiv*.
     Published online 2022:2022.09.12.22279792.
