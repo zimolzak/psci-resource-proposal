@@ -17,10 +17,10 @@ optimize their performance and effectiveness when implemented into
 clinical practice at individual sites.
 
 This proposal will outline the "Diagnosis Improvement Safety Center"
-(DISCovery) plan to **implement** these Safer Dx e-triggers into
+(DISCovery) plan to *implement* these Safer Dx e-triggers into
 practice at 3 selected VA centers. The initial phase will involve a
 pilot in the primary care setting to test a Safer Dx e-trigger change
-package called **Safer Dx ENGAGE**. This change packet is intended to
+package called *Safer Dx ENGAGE*. This change packet is intended to
 provide the guidance and support for the implementation of the
 e-triggers to each of the sites. The Safer Dx ENGAGE change packet
 involves utilizing the recommendations from the Measure Dx framework and
@@ -118,7 +118,7 @@ involve creation of various functional groups:
 -   Will identify individuals to participate in 3 stakeholder groups for
     the development of content
 
-## Task: Convene stakeholder groups for development of content**
+## Task: Convene stakeholder groups for development of content
 
 Key individuals from specific disciplines should be engaged and enrolled
 into 3 groups to guide and inform the development of content. Each group
@@ -148,7 +148,7 @@ resources are available for diagnostic safety measurement activities.
 Sites must ensure sufficient personnel and technical resources are
 available and enrolled on the project to:
 
-1..  Collect information about diagnostic safety
+1. Collect information about diagnostic safety
 
 2. Respond effectively when learning opportunities are discovered
 
