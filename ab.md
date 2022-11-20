@@ -51,7 +51,7 @@ such that at multiple points during development we will seek feedback
 from stakeholders including potential organizational users and external
 subject matter experts. We will solicit feedback on both overall and
 section-specific form and content. Potential section-specific subject
-matter experts are identified in the Part IV of the proposed contents
+matter experts are identified in the *Strategies* section of the proposed contents
 below. Key steps include:
 
 1.  Early in development we will engage stakeholders to reach consensus
@@ -83,7 +83,7 @@ below. Key steps include:
 
 # Proposed Contents
 
-## Part I. Introduction (1-2 pages)
+## Introduction (1--2 pages)
 
 This section provides a brief orientation to the issue of diagnostic
 safety measurement and its relevance to organizations. Users are
@@ -99,7 +99,7 @@ Rogith, Iyengar, & Singh, 2017^1^). Additional case-based examples will
 appear elsewhere in the resource to illustrate specific measurement
 concepts.
 
-## Part II. The Diagnostic Safety Measurement Team (1-2 pages)
+## The Diagnostic Safety Measurement Team (1--2 pages)
 
 This section describes the necessary conditions for using measurement
 for learning and improvement. These foundational needs include dedicated
@@ -119,7 +119,7 @@ recent publication in *Academic Medicine*, "Developing Health Care
 Organizations that Pursue Learning and Exploration of Diagnostic
 Excellence: An Action Plan."^2^
 
-## Part III. Organizational Self-Assessment (1 page)
+## Organizational Self-Assessment (1 page)
 
 Users will be prompted to answer a brief set of questions in order to
 help select what diagnostic safety measurement strategies may be most
@@ -134,9 +134,9 @@ specific measurement strategies for implementation.
 
 
 
-# Strategies
+## Strategies
 
-Each strategy is a brief (\~1-2 pages) and practical guide for
+Each strategy is a brief (\~1--2 pages) and practical guide for
 implementing methods to identify potential missed opportunities in
 diagnosis for the purposes of learning and improvement. Case examples
 will be used to illustrate applications of these strategies.
@@ -149,7 +149,7 @@ implementing the strategy described in each module. Instruments for data
 gathering and synthesis will be referenced across relevant modules and
 included as printable, ready-to-use tools in Appendices.
 
-**Strategy A:** Using Data from Existing Organizational Data Sources
+### Using Data from Existing Organizational Data Sources
 
 Using a "how-to" approach, we will highlight how all institutions can
 evaluate and learn from diagnostic safety events that are documented
@@ -161,7 +161,7 @@ will be referenced as examples of structured data gathering methods.
 
 -   Potential SMEs: Geisinger, Baystate, CHOP, M&M placeholder
 
-**Strategy B:** Brief Reports from Clinicians and Patients
+### Brief Reports from Clinicians and Patients
 
 Generic incident reporting systems may be insufficient for capturing
 diagnostic safety events. This module will use our "how-to" approach
@@ -178,7 +178,7 @@ encounter patient concerns about care safety and quality.
 -   Potential SMEs: Trisha Marshall (Cincinnati Children's Hospital),
     Traber Giardina, Kelly Smith
 
-**Strategy C:** Electronic Health Record-Enhanced Chart Review
+### Electronic Health Record-Enhanced Chart Review
 
 Search queries of electronic health records can be used to identify
 cases of diagnoses that are at high risk of being missed or delayed,
@@ -200,33 +200,48 @@ identified using EHR-based methods.^8^
 
 -   Potential SMEs: Daniel Murphy, Dean Sittig, Robert El-Kareh
 
-[Part V. Additional Resources and References]{.ul}
+
+
+
+## Additional Resources and References
 
 This section will include references, an annotated resource list for
 additional learning, and appendices that include case review tools that
 can be printed for "off-the-shelf" use.
 
-**References**
 
-1\. Rogith D, Iyengar MS, Singh H. Using Fault Trees to Advance
+1. Rogith D, Iyengar MS, Singh H. Using Fault Trees to Advance
 Understanding of Diagnostic Errors. *Jt Comm J Qual Patient Saf.*
-2017;43(11):598-605.2. Singh H, Upadhyay DK, Torretti D. Developing
+2017;43(11):598--605.
+
+2. Singh H, Upadhyay DK, Torretti D. Developing
 Health Care Organizations That Pursue Learning and Exploration of
-Diagnostic Excellence: An Action Plan. *Acad Med.* 2019.3.
-Manaseki-Holland S, Lilford RJ, Bishop JRB, et al. Reviewing deaths in
+Diagnostic Excellence: An Action Plan. *Acad Med.* 2019.
+
+3. Manaseki-Holland S, Lilford RJ, Bishop JRB, et al. Reviewing deaths in
 British and US hospitals: a study of two scales for assessing
-preventability. *BMJ Qual Saf.* 2017;26(5):408-416.4. Eichbaum Q, Adkins
+preventability. *BMJ Qual Saf.* 2017;26(5):408--416.
+
+4. Eichbaum Q, Adkins
 B, Craig-Owens L, et al. Mortality and morbidity rounds (MMR) in
 pathology: relative contribution of cognitive bias vs. systems failures
-to diagnostic error. *Diagnosis (Berl).* 2019;6(3):249-257.5. Bhise V,
+to diagnostic error. *Diagnosis (Berl).* 2019;6(3):249--257.
+
+5. Bhise V,
 Meyer AND, Singh H, et al. Errors in Diagnosis of Spinal Epidural
 Abscesses in the Era of Electronic Health Records. *Am J Med.*
-2017;130(8):975-981.6. Olson APJ, Graber ML, Singh H. Tracking Progress
+2017;130(8):975--981.
+
+6. Olson APJ, Graber ML, Singh H. Tracking Progress
 in Improving Diagnosis: A Framework for Defining Undesirable Diagnostic
-Events. *J Gen Intern Med.* 2018;33(7):1187-1191.7. Singh H, Khanna A,
+Events. *J Gen Intern Med.* 2018;33(7):1187--1191.
+
+7. Singh H, Khanna A,
 Spitzmueller C, Meyer AND. Recommendations for using the Revised Safer
 Dx Instrument to help measure and improve diagnostic safety. *Diagnosis
-(Berl).* 2019;6(4):315-323.8. Murphy DR, Meyer AN, Sittig DF, Meeks DW,
+(Berl).* 2019;6(4):315--323.
+
+8. Murphy DR, Meyer AN, Sittig DF, Meeks DW,
 Thomas EJ, Singh H. Application of electronic trigger tools to identify
 targets for improving diagnostic safety. *BMJ Qual Saf.*
-2019;28(2):151-159.
+2019;28(2):151--159.
