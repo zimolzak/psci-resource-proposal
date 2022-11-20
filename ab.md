@@ -37,7 +37,7 @@ incorporate case-based content; multiple cases will be used throughout
 the resource to illustrate how strategies could be applied to measure
 and learn from missed opportunities in diagnosis.
 
-![](media/image1.png){width="4.23in" height="2.27in"}
+![](image1.png){width="4.23in" height="2.27in"}
 
 # Development process
 

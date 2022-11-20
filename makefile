@@ -10,10 +10,10 @@ psci-proposal.pdf: README.md
 psci-proposal.docx: README.md
 	pandoc -o $@ $<
 
-%.pdf: %.md
+ab.pdf: ab.md image1.png
 	pandoc -o $@ $<
 
-%.docx: %.md
+ab.docx: ab.md image1.png
 	pandoc -o $@ $<
 
 
