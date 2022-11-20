@@ -1,7 +1,6 @@
-**PROPOSAL FOR RESOURCE (OBJECTIVE 5)**
-
-**Diagnostic Measurement for the Learning Health System:\
-An Operational Guide for Quality and Safety Leaders**
+% Proposal for Resource
+% Diagnostic Measurement for the Learning Health System
+% An Operational Guide for Quality and Safety Leaders
 
 # Objective
 
