@@ -161,80 +161,130 @@ project.
 The Safer Dx project team can check the following items as they develop
 their plan for measurement.
 
+
+
+
 ## Organizational Readiness Checklist
 
-+----------------------------------+----------------------------------+
-| **Clear objectives**             | **RESULTS**                      |
-|                                  |                                  |
-| -   The diagnostic safety team   | None **-** few items             |
-|     has identified specific      | checked**:** Start small.        |
-|     motivations and expected     | Consider using one strategy in a |
-|     outcomes of measurement      | limited capacity (e.g., pilot    |
-|     activities that foster       | test on a single unit)           |
-|     nonpunitive learning and     |                                  |
-|     improvement                  |                                  |
-+==================================+==================================+
-| **Leadership engagement**        |                                  |
-|                                  |                                  |
-| -   Leaders at appropriate level |                                  |
-|     of the organization have     |                                  |
-|     committed support t learning |                                  |
-|     from diagnostic safety       |                                  |
-|     events.                      |                                  |
-+----------------------------------+----------------------------------+
-| **Designated Team**              | Several items checked: Consider  |
-|                                  | using one or more of the         |
-| -   One or more team members are | strategies below or focus on     |
-|     able and willing to commit   | broad implementation of a single |
-|     time and effort to lead a    | measurement strategy             |
-|     diagnostic safety            |                                  |
-|     measurement and improvement  |                                  |
-|     program                      |                                  |
-|                                  |                                  |
-| -   Team members have support    |                                  |
-|     from others at your          |                                  |
-|     organization who are also    |                                  |
-|     willing to learn in pursuit  |                                  |
-|     of diagnostic excellence.    |                                  |
-|     These could include nursing  |                                  |
-|     staff,                       |                                  |
-|     physicians/clinicians, risk  |                                  |
-|     management/legal staff,      |                                  |
-|     representatives of           |                                  |
-|     diagnostic specialties (if   |                                  |
-|     available) and information   |                                  |
-|     technology and informatics   |                                  |
-|     staff (if available)         |                                  |
-+----------------------------------+----------------------------------+
-| **Safety culture**               | Most/all items checked: You seem |
-|                                  | well positioned to use multiple  |
-| -   Your organization            | measurement strategies from the  |
-|     demonstrates commitment to   | list below                       |
-|     safety culture (e.g., by     |                                  |
-|     conducting periodic surveys  |                                  |
-|     of safety culture,           |                                  |
-|     reviewing, and learning from |                                  |
-|     the findings, and            |                                  |
-|     implementing strategies to   |                                  |
-|     address findings).           |                                  |
-|                                  |                                  |
-| -   Your organization has a      |                                  |
-|     mechanism to share learning  |                                  |
-|     from case review/analysis    |                                  |
-+----------------------------------+----------------------------------+
-| **Quality and safety resources   |                                  |
-| and infrastructure**             |                                  |
-|                                  |                                  |
-| 1.  Patient safety and quality   |                                  |
-|     infrastructure is available  |                                  |
-|     to support your efforts.     |                                  |
-|     This could include basic     |                                  |
-|     safety measurement and       |                                  |
-|     reporting infrastructure or  |                                  |
-|     resources that support more  |                                  |
-|     advanced data gathering and  |                                  |
-|     analysis                     |                                  |
-+----------------------------------+----------------------------------+
+**Clear objectives**
+
+- The diagnostic safety team has identified specific motivations and
+  expected outcomes of measurement activities that foster nonpunitive
+  learning and improvement
+
+**Leadership engagement**
+
+- Leaders at appropriate level of the organization have committed
+  support learning from diagnostic safety events.
+
+**Designated Team**
+
+- One or more team members are able and willing to commit time and
+  effort to lead a diagnostic safety measurement and improvement
+  program
+
+- Team members have support from others at your organization who are
+  also willing to learn in pursuit of diagnostic excellence. These
+  could include nursing staff, physicians/clinicians, risk
+  management/legal staff, representatives of diagnostic specialties
+  (if available) and information technology and informatics staff (if
+  available)
+
+**Safety culture**
+
+- Your organization demonstrates commitment to safety culture (e.g.,
+  by conducting periodic surveys of safety culture, reviewing, and
+  learning from the findings, and implementing strategies to address
+  findings).
+
+- Your organization has a mechanism to share learning from case
+  review/analysis
+
+**Quality and safety resources and infrastructure**
+
+- Patient safety and quality infrastructure is available to support
+  your efforts. This could include basic safety measurement and
+  reporting infrastructure or resources that support more advanced
+  data gathering and analysis
+
+
+
+
+----------------------------------+
+ **RESULTS**                      |
+                                  |
+ None **-** few items             |
+ checked**:** Start small.        |
+ Consider using one strategy in a |
+ limited capacity (e.g., pilot    |
+ test on a single unit)           |
+                                  |
+                                  |
+==================================+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+----------------------------------+
+ Several items checked: Consider  |
+ using one or more of the         |
+ strategies below or focus on     |
+ broad implementation of a single |
+ measurement strategy             |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+----------------------------------+
+ Most/all items checked: You seem |
+ well positioned to use multiple  |
+ measurement strategies from the  |
+ list below                       |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+----------------------------------+
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+                                  |
+
+
+
+
 
 Participating VA facilities may use the strategy of leveraging the
 capabilities of their EHRs to inform their measurement of diagnostic
