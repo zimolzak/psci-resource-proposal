@@ -39,7 +39,7 @@ the associated customization process
 The project comprises two main aims. Aim 1 involves developing and
 testing the Safer Dx ENGAGE change package and Aim 2 is the assessment
 of the implementation and use of the triggers. Broadly, the process
-will follow the *Measure Dx* Resource.[^measuredx]
+will follow the *Measure Dx* Resource.[^measure]
 
 Aim 1: Develop and pilot test a Safer Dx ENGAGE change package to
 provide VA facilities guidance on how to implement e-triggers in
@@ -56,7 +56,7 @@ a need for some changes or additions to current practices at
 participating centers to prepare for the implementation of the Safer
 Dx e-triggers. Implementation of new measurement strategies and change
 approaches must account for organizational and other non-technical
-issues, or electronic tools will not lead to improvements.[^socio]
+issues, or electronic tools will not lead to improvements.[^model]
 
 Successful projects depend on buy-in from the user community of an
 organization. A structured change management process outlined in the
@@ -171,7 +171,7 @@ clinical leaders, and clinicians
 
 Each DISCovery site will determine its priorities and how e-triggers
 could be employed to have the most impact. The *Measure Dx Checklist*
-will provide a framework for this step.[^measuredx] Sites will select
+will provide a framework for this step.[^measure] Sites will select
 one or more measurement strategies, and they will ensure that
 sufficient resources are available for diagnostic safety measurement
 activities. Sites must ensure sufficient personnel and technical
@@ -286,7 +286,7 @@ Safer Dx ENGAGE change package.
 
 A series of interviews will be conducted by the PSCI IQuESt team? with
 members of the three stakeholder groups with questions guided by the
-eight-dimensional sociotechnical model[^socio]. Interviews with
+eight-dimensional sociotechnical model[^model]. Interviews with
 members of the 3 stakeholder groups will be conducted with a snowball
 sampling approach until qualitative saturation of themes is achieved.
 The data will be analyzed using established qualitative techniques to
@@ -397,7 +397,7 @@ with individual reviewers, as well as the means to send cases for
 review. It is therefore essential to a smooth e-trigger validation
 process that these members of the team communicate and work together
 in a cohesive and integrated way. Lastly, the *Revised Safer Dx
-Instrument*[^rsdi] will be central to determining the presence/absence
+Instrument*[^revised] will be central to determining the presence/absence
 of missed opportunities for diagnosis.
 
 
@@ -491,11 +491,11 @@ organizations.
 
 
 
-[^measuredx]: Bradford A, Singh H. Measure Dx: A Resource To Identify,
+[^measure]: Bradford A, Singh H. Measure Dx: A Resource To Identify,
 Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
 22-0030. May 2022.
 
-[^socio]: Sittig DF, Singh H. A new sociotechnical model for studying
+[^model]: Sittig DF, Singh H. A new sociotechnical model for studying
 health information technology in complex adaptive healthcare systems.
 *Quality and Safety in Health Care*. 2010;19(Suppl 3):i68--i74.
 
@@ -509,7 +509,7 @@ Kobylinski M, Bansal AB, Torretti D, Singh H. A program to provide
 clinicians with feedback on their diagnostic performance in a learning
 health system. *Jt Comm J Qual Saf* 2021;47:120--26
 
-[^rsdi]: Singh H, Khanna A, Spitzmueller C, Meyer AND. Recommendations
+[^revised]: Singh H, Khanna A, Spitzmueller C, Meyer AND. Recommendations
 for using the Revised Safer Dx Instrument to help measure and improve
 diagnostic safety. *Diagnosis (Berl)*. 2019 Nov 26;6(4):315--23.
 
