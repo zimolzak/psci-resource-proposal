@@ -1,4 +1,4 @@
-files = psci-proposal.pdf psci-proposal.docx 110922.pdf 110922.docx
+files = psci-proposal.pdf psci-proposal.docx
 
 .PHONY: all clean
 
