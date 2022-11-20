@@ -16,6 +16,5 @@ ab.pdf: ab.md image1.png
 ab.docx: ab.md image1.png
 	pandoc -o $@ $<
 
-
 clean:
 	rm -f $(files)
