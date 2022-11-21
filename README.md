@@ -1,6 +1,8 @@
-% PSCI DISCovery Project Proposal
+% PSCI DISCovery Resource Proposal
 % Roni Matin, Andrew Zimolzak
-% 2022-11-20
+% 2022-11-21
+
+# Objective
 
 This VA Patient Safety Center of Inquiry (PSCI) focuses on measurement
 of patient safety. Prior work by the Center for Innovations in
@@ -16,15 +18,21 @@ sites' practices and data may vary so these Safer Dx e-triggers may
 require customization to optimize their performance and effectiveness
 when implemented into clinical practice at individual sites.
 
+# Audience
+
 This proposal will outline the "Diagnosis Improvement Safety Center"
 (DISCovery) plan to *implement* these Safer Dx e-triggers into
 practice at 3 selected VA centers. The initial phase will involve a
 pilot in the primary care setting to test a Safer Dx e-trigger change
 package called *Safer Dx ENGAGE*. This change packet is intended to
 provide the guidance and support for the implementation of the
-e-triggers to each of the sites. The Safer Dx ENGAGE change packet
-involves utilizing the recommendations from the Measure Dx framework
-and leveraging the knowledge gained in the previous work to inform and
+e-triggers to each of the sites.
+
+# Format
+
+The Safer Dx ENGAGE change package
+uses the recommendations from the Measure Dx framework
+and leverages the knowledge gained in the previous work to inform and
 guide the sites with:
 
 1. establishing the necessary project structure and resources
@@ -48,7 +56,20 @@ primary care
 
 
 
-# Prepare
+# Development Process
+
+**fixme** - insert
+
+
+
+
+
+
+
+
+# Proposed Contents
+
+## Introduction/Prepare
 
 VA Medical centers vary in their structure and organization, their
 patient populations, and their operational goals. As such there may be
@@ -57,6 +78,12 @@ participating centers to prepare for the implementation of the Safer
 Dx e-triggers. Implementation of new measurement strategies and change
 approaches must account for organizational and other non-technical
 issues, or electronic tools will not lead to improvements.[^model]
+
+
+
+
+
+## Team
 
 Successful projects depend on buy-in from the user community of an
 organization. A structured change management process outlined in the
@@ -72,11 +99,6 @@ community. At the initiation of the project the sites need to identify
 individuals who will work as an engaged Safer Dx team with dedicated
 hours available towards the change package. This team at a minimum
 should contain the following roles:
-
-
-
-
-## Project Team
 
 Project Champion:
 
@@ -117,19 +139,13 @@ involve multiple revisions to the e-trigger to ensure the project
 meets common organizational patient safety goals and aligns to the
 identified clinical objectives.
 
-
-
-
 The Safer Dx ENGAGE change package contains multiple steps. The first
 involves identifying key individuals within the organization, who may
 be involved with this project both in terms of providing guidance and
 in the development of content for the e-triggers. The following steps
 involve creation of various functional groups:
 
-
-
-
-## Task: Convene an expert panel
+### Task: Convene an expert panel
 
 - 6-8 individuals to provide expert advice and guidance
 
@@ -139,10 +155,7 @@ involve creation of various functional groups:
 - Will identify individuals to participate in 3 stakeholder groups for
   the development of content
 
-
-
-
-## Task: Convene stakeholder groups for development of content
+### Task: Convene stakeholder groups for development of content
 
 Key individuals from specific disciplines should be engaged and
 enrolled into 3 groups to guide and inform the development of content.
@@ -167,7 +180,7 @@ clinical leaders, and clinicians
 
 
 
-# Self-Assessment
+## Self-Assessment
 
 Each DISCovery site will determine its priorities and how e-triggers
 could be employed to have the most impact. The *Measure Dx Checklist*
@@ -187,72 +200,13 @@ help. This checklist will aid the Safer Dx project team to identify
 whee further efforts may be required to prepare for initiation of the
 project.
 
-The Safer Dx project team can check the following items as they
-develop the plan for measurement.
+This section *refers to Checklist,* which will be included as an
+appendix.
 
 
 
 
-## Organizational Readiness Checklist
-
-**Clear objectives**
-
-- The diagnostic safety team has identified specific motivations and
-  expected outcomes of measurement activities that foster non-punitive
-  learning and improvement
-
-**Leadership engagement**
-
-- Leaders at appropriate level of the organization have committed
- support learning from diagnostic safety events.
-
-**Designated Team**
-
-- One or more team members are able and willing to commit time and
-  effort to lead a diagnostic safety measurement and improvement
-  program
-
-- Team members have support from others at your organization who are
-  also willing to learn in pursuit of diagnostic excellence. These
-  could include nursing staff, physicians/clinicians, risk
-  management/legal staff, representatives of diagnostic specialties
-  (if available) and information technology and informatics staff (if
-  available)
-
-**Safety culture**
-
-- Your organization demonstrates commitment to safety culture (e.g.,
-  by conducting periodic surveys of safety culture, reviewing, and
-  learning from the findings, and implementing strategies to address
-  findings).
-
-- Your organization has a mechanism to share learning from case
-  review/analysis
-
-**Quality and safety resources and infrastructure**
-
-- Patient safety and quality infrastructure is available to support
-  your efforts. This could include basic safety measurement and
-  reporting infrastructure or resources that support more advanced
-  data gathering and analysis
-
-
-
-
-## Results
-
-- Few to no items checked: Start small. Consider using one strategy in
-  a limited capacity (e.g., pilot test on a single unit)
-
-- Several items checked: Consider using one or more of the strategies
-  below or focus on broad implementation of a single measurement
-  strategy
-
-- Most/all items checked: You seem well positioned to use multiple
-  measurement strategies from the list below
-
-
-
+## Strategy: Electronic Health Record-Enhanced Chart Review (ENGAGE Section 1)
 
 Participating VA facilities may use EHR data to inform their
 measurement of diagnostic safety. This approach could also be
@@ -274,15 +228,9 @@ questions:
 4. Does the HCO have a coordinated process for requesting EHR data,
    running queries, and generating reports?
 
+### Task: Conduct interviews to help develop package content
 
-
-
-# Strategies (ENGAGE Section 1)
-
-The PSCI IQuESt team will provide guidance on how to implement the
-Safer Dx ENGAGE change package.
-
-## Task: Conduct interviews to help develop package content
+**fixme** probably delete lots of the following
 
 A series of interviews will be conducted by the PSCI IQuESt team? with
 members of the three stakeholder groups with questions guided by the
@@ -297,10 +245,7 @@ findings will be used to develop guidance on how the facility can
 integrate the e-triggers into their safety measurement and learning
 systems. into the change management process.
 
-
-
-
-## Task: Safer Dx ENGAGE content development
+### Task: Safer Dx ENGAGE content development
 
 As part of the support and guidance for developing the e-triggers the
 PSCI IQuESt team will host the following:
@@ -330,9 +275,6 @@ Office hour sessions:
 : to enable connecting with the PSCI IQuESt team for high-throughput
 question/answers and email responses.[^translating]
 
-
-
-
 Each DISCovery site should decide who within the organization is
 ultimately going to receive the data, meaning who is going to take
 action based on it.[^feedback] This will guide the format in which
@@ -344,7 +286,7 @@ See also: VA's *Communication Of Test Results* *Toolkit*.
 
 
 
-# Review cases (ENGAGE Section 2)
+## Review cases (ENGAGE Section 2)
 
 An important step in the development of any e-trigger is ensuring its
 accuracy and clinical relevance. This is achieved by the verification
@@ -403,9 +345,9 @@ of missed opportunities for diagnosis.
 
 
 
-# Assess implementation (ENGAGE Sections 3-4)
+## Assess implementation (ENGAGE Sections 3-4)
 
-## Data Dissemination and Support
+### Data Dissemination and Support
 
 The results retrieved from the e-trigger may be in a format that is
 not conducive to interpretation by personnel from diverse backgrounds.
@@ -428,7 +370,7 @@ other associated technical requirements will enable future
 enhancements as necessitated by changes in the organizational
 operations.
 
-## Developing Strategies to Learn from the Project
+### Developing Strategies to Learn from the Project
 
 DISCovery sites will reflect on the of the co-design change package
 process undertaken with IQuESt team. Site stakeholders should review
@@ -439,11 +381,10 @@ leaders, and clinicians, but also from the wider stakeholder
 community. In other words, was *Safer Dx ENGAGE* appropriate for the
 task, given the interviews we did at your facility to develop it?
 
+**fixme**
+
 The end result of this step is to deliver what *other VAMCs* may need
 to know, including:
-
-
-
 
 Best practices:
 
@@ -478,9 +419,6 @@ team and stakeholders.
 E-trigger performance:
 
 : statistics for VA's Centralized Phenomics Resource[^cipher]
-
-
-
 
 The aim of this step is to recommend ways that users can choose a
 diagnostic safety target considering organization priorities,
