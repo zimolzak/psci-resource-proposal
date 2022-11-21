@@ -228,53 +228,6 @@ questions:
 4. Does the HCO have a coordinated process for requesting EHR data,
    running queries, and generating reports?
 
-### Task: Conduct interviews to help develop package content
-
-**fixme** probably delete lots of the following
-
-A series of interviews will be conducted by the PSCI IQuESt team? with
-members of the three stakeholder groups with questions guided by the
-eight-dimensional sociotechnical model[^model]. Interviews with
-members of the 3 stakeholder groups will be conducted with a snowball
-sampling approach until qualitative saturation of themes is achieved.
-The data will be analyzed using established qualitative techniques to
-identify patterns related to barriers and facilitators of diagnostic
-safety awareness and measurement. These findings will be communicated
-to the facility SaferDx Project Team at the site. In addition, the
-findings will be used to develop guidance on how the facility can
-integrate the e-triggers into their safety measurement and learning
-systems. into the change management process.
-
-### Task: Safer Dx ENGAGE content development
-
-As part of the support and guidance for developing the e-triggers the
-PSCI IQuESt team will host the following:
-
-General meetings:
-
-: to present the SaferDx ENGAGE change package, raise awareness of
-diagnostic risk via measurement and identifying areas needing
-improvement for the facility
-
-Didactic technical sessions:
-
-: for programmers and data managers, to review the SQL code,
-pseudocode (that provides human-readable description outlining the
-code), and documentation. Enable local technical teams to implement
-and support the e-triggers
-
-Clinical interpretation sessions:
-
-: guidance on to identifying key clinical target data and then
-translating this into the e-trigger SQL codes. These sessions will
-allow local teams how to determine relevant inclusion and exclusion
-criteria for the queries specific to the own data.
-
-Office hour sessions:
-
-: to enable connecting with the PSCI IQuESt team for high-throughput
-question/answers and email responses.[^translating]
-
 Each DISCovery site should decide who within the organization is
 ultimately going to receive the data, meaning who is going to take
 action based on it.[^feedback] This will guide the format in which
@@ -372,8 +325,7 @@ operations.
 
 ### Developing Strategies to Learn from the Project
 
-DISCovery sites will reflect on the of the co-design change package
-process undertaken with IQuESt team. Site stakeholders should review
+Site stakeholders should review
 and determine how the process was used for (1) analysis, (2) feedback,
 and (3) learning. Project completion/debriefing meetings may be held
 to gather feedback from stakeholders, primarily Group3 Clinical
@@ -381,50 +333,10 @@ leaders, and clinicians, but also from the wider stakeholder
 community. In other words, was *Safer Dx ENGAGE* appropriate for the
 task, given the interviews we did at your facility to develop it?
 
-**fixme**
-
-The end result of this step is to deliver what *other VAMCs* may need
-to know, including:
-
-Best practices:
-
-: to create and improve metrics for diagnostic safety
-
-Strategies:
-
-: to determine the best approach to leverage the organization
-resources for the identifying opportunities for diagnostic
-improvements
-
-Action steps:
-
-: guide of key steps for the development, testing and deployment of
-the e-triggers to enable local developers and stakeholders to
-reproduce the process
-
-Software:
-
-: ensure the technology resources are adequate and available to meet
-the needs of the project
-
-Documentation:
-
-: full documentation of the SQL queries behind the e-triggers and
-other relevant technical matters and the findings from the Stakeholder
-groups will be made. Additionally, any lessons learned about best
-practices or improved processes or regulatory requirements that might
-be useful feedback will be documented and provided to the site project
-team and stakeholders.
-
-E-trigger performance:
-
-: statistics for VA's Centralized Phenomics Resource[^cipher]
-
 The aim of this step is to recommend ways that users can choose a
 diagnostic safety target considering organization priorities,
 available resources, and availability of data relevant to the team's
-goal to enable similar implementation of such programs at other VA
-organizations.
+goal.
 
 
 
@@ -437,11 +349,6 @@ Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
 health information technology in complex adaptive healthcare systems.
 *Quality and Safety in Health Care*. 2010;19(Suppl 3):i68--i74.
 
-[^translating]: Zimolzak AJ, Singh H, Murphy DR, *et al*. Translating
-electronic health record-based patient safety algorithms from research
-to clinical practice at multiple sites. *BMJ Heal Care Informatics*.
-2022;29(1):e100565.
-
 [^feedback]: Meyer AND, Upadhyay DK, Collins CA, Fitzpatrick MH,
 Kobylinski M, Bansal AB, Torretti D, Singh H. A program to provide
 clinicians with feedback on their diagnostic performance in a learning
@@ -450,8 +357,3 @@ health system. *Jt Comm J Qual Saf* 2021;47:120--26
 [^revised]: Singh H, Khanna A, Spitzmueller C, Meyer AND. Recommendations
 for using the Revised Safer Dx Instrument to help measure and improve
 diagnostic safety. *Diagnosis (Berl)*. 2019 Nov 26;6(4):315--23.
-
-[^cipher]: Honerlaw J, Ho YL, Fontin F, *et al*. Development of the
-Centralized Interactive Phenomics Resource (CIPHER) Standard for
-Electronic Health Data-Based Phenomics Knowledgebase. *MedRxiv*.
-Published online 2022:2022.09.12.22279792.
