@@ -7,7 +7,7 @@
 This VA Patient Safety Center of Inquiry (PSCI) focuses on measurement
 of patient safety. Prior work by the Center for Innovations in
 Quality, Effectiveness and Safety (IQuESt) has been conducted to
-develop a series of Safer Dx framework guided rules-based *e-triggers*
+develop a series of Safer Dx framework-guided rules-based *e-triggers*
 to facilitate the measurement of diagnostic errors in primary care and
 emergency department settings. These e-triggers enabled the
 measurement of diagnostic safety issues via electronic health record
@@ -24,13 +24,13 @@ This proposal will outline the "Diagnosis Improvement Safety Center"
 (DISCovery) plan to *implement* these Safer Dx e-triggers into
 practice at 3 selected VA centers. The initial phase will involve a
 pilot in the primary care setting to test a Safer Dx e-trigger change
-package called *Safer Dx ENGAGE*. This change packet is intended to
+package/resource called *Safer Dx ENGAGE*. The change package will
 provide the guidance and support for the implementation of the
-e-triggers to each of the sites.
+e-triggers at each of the sites.
 
 # Format
 
-The Safer Dx ENGAGE change package
+The *Safer Dx ENGAGE*
 uses the recommendations from the Measure Dx framework
 and leverages the knowledge gained in the previous work to inform and
 guide the sites with:
@@ -44,25 +44,45 @@ the associated customization process
 
 4. the measurement of the triggers' use and effectiveness
 
-The project comprises two main aims. Aim 1 involves developing and
-testing the Safer Dx ENGAGE change package and Aim 2 is the assessment
-of the implementation and use of the triggers. Broadly, the process
-will follow the *Measure Dx* Resource.[^measure]
-
-Aim 1: Develop and pilot test a Safer Dx ENGAGE change package to
-provide VA facilities guidance on how to implement e-triggers in
-primary care
+Broadly, the process will follow the *Measure Dx* Resource.[^measure]
+*Safer Dx ENGAGE* will guide VA facilities to implement e-triggers in
+primary care.
 
 
 
 
 # Development Process
 
-**fixme** - insert
+We will approach the design and development of the *Safer Dx ENGAGE*
+resource iteratively,
+such that at multiple points during development we will seek feedback
+from stakeholders including potential organizational users and external
+subject matter experts. We will solicit feedback on both overall and
+section-specific form and content. Key steps include:
 
+1.  Early in development we will engage stakeholders to reach consensus
+    on the scope and general form of the resource. The initial
+    stakeholder meetings will be used to create a "shared mental model"
+    of the resource.
 
+2.  Consistent with a coproduction approach, we will iteratively design
+    a working draft of resource working with small groups of two or
+    three people focusing on (1) the resource as a whole and (2)
+    sections for which specific content expertise is needed (e.g.,
+    "strategies" modules). Teams will include subject matter experts and
+    representative potential organizational users for the resource.
+    Their feedback (obtained using a series of coproduction sessions)
+    will be used to refine the resource's content and guide development
+    of the remaining content.
 
+3.  We will present a final draft to key stakeholders and make
+    additional refinements based on their feedback.
 
+4.  We will conduct a pilot test to evaluate potential end users'
+    experiences of using the resource, barriers and facilitators to
+    taking acting on recommendations, and additional considerations for
+    dissemination and implementation of the resource. We will select
+    approximately 3 sites for pilot testing.
 
 
 
@@ -71,12 +91,10 @@ primary care
 
 ## Introduction/Prepare
 
-This section provides a brief orientation to the issue of diagnostic
+This section will provide a brief orientation to the issue of diagnostic
 safety measurement and its relevance to organizations. Users are
 introduced to the potential benefits of adopting strategies described in
-the toolkit.
-
-Users are also oriented to the general idea that:
+the toolkit. Users are also oriented to the general idea that:
 
 > VA Medical centers vary in their structure and organization, their
 > patient populations, and their operational goals. As such there may be
@@ -94,8 +112,9 @@ Users are also oriented to the general idea that:
 
 Successful projects depend on buy-in from the user community of an
 organization. A structured change management process outlined in the
-Safer Dx ENGAGE change package has been proposed to facilitate this.
-Therefore, the initial step will be to identify those interested and
+*Safer Dx ENGAGE* change package has been proposed to facilitate this.
+
+Therefore, this section guides users to identify those interested and
 invested in the project goals. These individuals may have different
 existing interests or roles within the organization, but they will
 need to come together to form a project team. The Safer Dx team and
@@ -110,7 +129,7 @@ This section will describe typical roles: Project champion, Project
 manager, Safety officer, Chart reviewer, Data manager, System
 administrator, Programmers, and Developers.
 
-The Safer Dx ENGAGE change package contains multiple steps. The first
+The *Safer Dx ENGAGE* change package contains multiple steps. The first
 involves identifying key individuals within the organization, who may
 be involved with this project both in terms of providing guidance and
 in the development of content for the e-triggers. An expert panel will
@@ -125,7 +144,7 @@ Safety, and Clinical Operations.
 
 ## Self-Assessment
 
-Each DISCovery site will determine its priorities and how e-triggers
+This section will guide an implementing site to determine its priorities and how e-triggers
 could be employed to have the most impact. The *Measure Dx Checklist*
 will provide a framework for this step.[^measure] Sites will select
 one or more measurement strategies, and they will ensure that
@@ -149,7 +168,7 @@ appendix.
 
 
 
-## Strategy: Electronic Health Record-Enhanced Chart Review (ENGAGE Section 1)
+## Strategy: Electronic Health Record-Enhanced Chart Review
 
 Participating VA facilities may use EHR data to inform their
 measurement of diagnostic safety. This approach could also be
@@ -171,7 +190,7 @@ questions:
 4. Does the HCO have a coordinated process for requesting EHR data,
    running queries, and generating reports?
 
-Each DISCovery site should decide who within the organization is
+Each site should decide who within the organization is
 ultimately going to receive the data, meaning who is going to take
 action based on it.[^feedback] This will guide the format in which
 recipients wish to receive feedback and ensure all the desired data
@@ -182,11 +201,15 @@ See also: VA's *Communication Of Test Results* *Toolkit*.
 
 
 
-## Review cases (ENGAGE Section 2)
+## Review cases
 
 An important step in the development of any e-trigger is ensuring its
 accuracy and clinical relevance. This is achieved by the verification
-of the output data generated by the e-trigger. This is field testing
+of the output data generated by the e-trigger, and this section of
+*Safer Dx ENAGE* will
+orient users to this process.
+
+This is field testing
 of the e-trigger's accuracy is multi-step process where the retrieved
 data are systematically reviewed by clinically trained staff as chart
 reviewers, amendments if necessary are made, and then the new version
@@ -239,7 +262,7 @@ of missed opportunities for diagnosis.
 
 
 
-## Assess implementation (ENGAGE Sections 3-4)
+## Assess implementation
 
 ### Data Dissemination and Support
 
