@@ -98,6 +98,9 @@ Rogith, Iyengar, & Singh, 2017^1^). Additional case-based examples will
 appear elsewhere in the resource to illustrate specific measurement
 concepts.
 
+
+
+
 ## The Diagnostic Safety Measurement Team (1--2 pages)
 
 This section describes the necessary conditions for using measurement
@@ -117,6 +120,9 @@ this section will be derived from the AHRQ issue brief and from the
 recent publication in *Academic Medicine*, "Developing Health Care
 Organizations that Pursue Learning and Exploration of Diagnostic
 Excellence: An Action Plan."^2^
+
+
+
 
 ## Organizational Self-Assessment (1 page)
 
