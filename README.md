@@ -21,9 +21,9 @@ when implemented into clinical practice at individual sites.
 # Audience
 
 This proposal will outline the "Diagnosis Improvement Safety Center"
-(DISCovery) plan to implement these Safer Dx e-triggers into
-practice at VA medical centers. The initial phase will involve a
-pilot in the primary care setting to test a Safer Dx e-trigger change
+(DISCovery) plan to implement these Safer Dx e-triggers into practice
+at VA medical centers. The initial phase will involve a pilot in the
+primary care setting to test a Safer Dx e-trigger change
 package/resource called *Safer Dx ENGAGE*. The change package will
 provide the guidance and support for the implementation of the
 e-triggers at any VA sites.
@@ -43,8 +43,8 @@ safety
 
 4. Electronic health record-enhanced chart review
 
-5. Review of e-trigger designated cases to confirm accuracy, and
-any required e-trigger customization.
+5. Review of e-trigger designated cases to confirm accuracy, and any
+required e-trigger customization.
 
 6. Assessment of triggers' implementation (the roll out and testing of
 the e-triggers into practice, and the measurement of the triggers' use
@@ -137,12 +137,12 @@ system administrator, programmers, and developers.
 
 This section will guide an implementing site to determine its
 priorities and how e-triggers could be employed to have the most
-impact. The *Measure Dx Checklist*[^appendix] will provide a framework for this
-step.[^measure] Sites will select one or more measurement strategies,
-and they will ensure that sufficient resources are available for
-diagnostic safety measurement activities. Sites must ensure sufficient
-personnel and technical resources are available and enrolled on the
-project to:
+impact. The *Measure Dx Checklist*[^appendix] will provide a framework
+for this step.[^measure] Sites will select one or more measurement
+strategies, and they will ensure that sufficient resources are
+available for diagnostic safety measurement activities. Sites must
+ensure sufficient personnel and technical resources are available and
+enrolled on the project to:
 
 1. Collect information about diagnostic safety
 
@@ -165,8 +165,8 @@ facilities should address the following points:
 
 1. Identify the appropriate EHR data warehouse for queries
 
-2. Who will access the data warehouse and support
-   the team with EHR queries?
+2. Who will access the data warehouse and support the team with EHR
+   queries?
 
 3. Is there a team member who understands clinical data
    quality/validation?
@@ -197,10 +197,10 @@ the new e-trigger's output data is again reviewed by chart reviewers.
 
 - These chart review processes will identify data quality and
   completeness issues of the e-trigger results. Chart reviewers may
-  confer with the members of the stakeholder team (especially
-  clinical leaders and clinicians) to determine whether the e-trigger
-  meets the project and organizational goals or whether changes to the
-  e-trigger are needed.
+  confer with the members of the stakeholder team (especially clinical
+  leaders and clinicians) to determine whether the e-trigger meets the
+  project and organizational goals or whether changes to the e-trigger
+  are needed.
 
 - This information will provide feedback to the data
   analysts/programmers responsible for developing the e-trigger so
@@ -271,10 +271,10 @@ organizational operations.
 Site stakeholders should review and determine how the process was used
 for (1) analysis, (2) feedback, and (3) learning. Project
 completion/debriefing meetings may be held to gather feedback from
-stakeholders (especially clinical leaders and clinicians), but
-also from the wider stakeholder team. In other words, was *Safer
-Dx ENGAGE* appropriate for the task, given the interviews we did at
-your facility to develop it?
+stakeholders (especially clinical leaders and clinicians), but also
+from the wider stakeholder team. In other words, was *Safer Dx ENGAGE*
+appropriate for the task, given the interviews we did at your facility
+to develop it?
 
 The aim of this step is to recommend ways that users can choose a
 diagnostic safety target considering organization priorities,
