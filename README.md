@@ -26,30 +26,33 @@ practice at 3 selected VA centers. The initial phase will involve a
 pilot in the primary care setting to test a Safer Dx e-trigger change
 package/resource called *Safer Dx ENGAGE*. The change package will
 provide the guidance and support for the implementation of the
-e-triggers at each of the sites.
+e-triggers at any VA sites.
 
 # Format
 
-The *Safer Dx ENGAGE*
+*Safer Dx ENGAGE*
 uses the recommendations from the Measure Dx framework
 and leverages the knowledge gained in the previous work to inform and
-guide the sites with:
+guide sites with:
 
-1. establishing the necessary project structure and resources
+1. Preparation and orienting to fundamentals of diagnostic safety.
 
-2. the process to identify the appropriate e-trigger(s) needed, and
-the associated customization process
+2. Assembling a team with necessary structure and other resources
 
-3. the roll out and testing of the e-triggers into practice
+3. self-assessment and identification of appropriate e-trigger(s)
 
-4. the measurement of the triggers' use and effectiveness
+4. Electronic Health Record-Enhanced Chart Review
+
+5. Review of e-trigger designated cases to confirm accuracy, and
+any required e-trigger customization.
+
+6. Assessment of triggers' implementation (the roll out and testing of
+the e-triggers into practice, and the measurement of the triggers' use
+and effectiveness)
 
 Broadly, the process will follow the *Measure Dx* Resource.[^measure]
 *Safer Dx ENGAGE* will guide VA facilities to implement e-triggers in
 primary care.
-
-
-
 
 # Development Process
 
@@ -81,8 +84,7 @@ section-specific form and content. Key steps include:
 4.  We will conduct a pilot test to evaluate potential end users'
     experiences of using the resource, barriers and facilitators to
     taking acting on recommendations, and additional considerations for
-    dissemination and implementation of the resource. We will select
-    approximately 3 sites for pilot testing.
+    dissemination and implementation of the resource.
 
 
 
@@ -103,7 +105,6 @@ the toolkit. Users are also oriented to the general idea that:
 > Dx e-triggers. Implementation of new measurement strategies and change
 > approaches must account for organizational and other non-technical
 > issues, or electronic tools will not lead to improvements.[^model]
-
 
 
 
@@ -129,15 +130,13 @@ This section will describe typical roles: Project champion, Project
 manager, Safety officer, Chart reviewer, Data manager, System
 administrator, Programmers, and Developers.
 
-The *Safer Dx ENGAGE* change package contains multiple steps. The first
-involves identifying key individuals within the organization, who may
-be involved with this project both in terms of providing guidance and
-in the development of content for the e-triggers. An expert panel will
-comprise 6--8 individuals, representing patient safety, diagnostic
-error, quality improvement, clinical leadership, and informatics.
-Likewise, stakeholder groups include Data and Informatics, Quality and
-Safety, and Clinical Operations.
-
+The *Safer Dx ENGAGE* change package contains multiple steps. The
+first involves identifying key individuals within the organization,
+who may be involved with this project both in terms of providing
+guidance and in the development of content for the e-triggers. A
+stakeholder panel may include representatives from: clinical
+leadership, clinical operations, quality improvement, patient safety,
+and data/informatics.
 
 
 
@@ -175,13 +174,12 @@ measurement of diagnostic safety. This approach could also be
 augmented with the strategy of soliciting information about diagnostic
 safety directly from clinicians.
 
-Additionally, participating facilities could ask the following
-questions:
+Additionally, participating facilities could address the following
+points:
 
-1. Does your HCO have an EHR data warehouse or equivalent system for
-   EHR queries?
+1. Identify the appropriate EHR data warehouse for queries
 
-2. Is there a person who can access the data warehouse and can support
+2. Who will access the data warehouse and support
    the team with EHR queries?
 
 3. Is there a team member who understands clinical data
@@ -264,7 +262,7 @@ of missed opportunities for diagnosis.
 
 ## Assess implementation
 
-### Data Dissemination and Support
+### Putting knowledge obtained into action
 
 The results retrieved from the e-trigger may be in a format that is
 not conducive to interpretation by personnel from diverse backgrounds.
@@ -292,8 +290,8 @@ operations.
 Site stakeholders should review
 and determine how the process was used for (1) analysis, (2) feedback,
 and (3) learning. Project completion/debriefing meetings may be held
-to gather feedback from stakeholders, primarily Group3 Clinical
-leaders, and clinicians, but also from the wider stakeholder
+to gather feedback from stakeholders, primarily group clinical
+leaders and clinicians, but also from the wider stakeholder
 community. In other words, was *Safer Dx ENGAGE* appropriate for the
 task, given the interviews we did at your facility to develop it?
 
