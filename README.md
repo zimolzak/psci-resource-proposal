@@ -4,25 +4,27 @@
 
 # Objective
 
-This VA Patient Safety Center of Inquiry (PSCI), Houston's Diagnosis Improvement Safety Center (DISCovery), focuses on measurement
-of diagnostic safety. Prior work by our DISCovery team includes
-development of a series of Safer Dx framework-guided rules-based *e-triggers*
-that facilitate the measurement of diagnostic errors in primary care and
-emergency department settings. These e-triggers enable the
-measurement of diagnostic safety issues via electronic health record
-data. The resulting set of Safer Dx e-triggers has undergone
-extensive testing and refinement.
-However, use at particular VA sites has necessitated extensive
-implementation help by our study team. As such, we now
-aim to
-create a guide that will enable implementation of
-these e-triggers across VA facilities at a national level with very little need for direct facilitation by our study team. VA
-sites' practices and data may vary, so these Safer Dx e-triggers may
-require customization to optimize their performance and effectiveness
-when implemented into clinical practice at individual sites.
-The guidance we endeavor to create in the guide (to be named Safer Dx
-EnGAGE) should allow individual sites to take these contextual factors
-into account and successfully implement the e-triggers on their own.
+This VA Patient Safety Center of Inquiry (PSCI), Houston's Diagnosis
+Improvement Safety Center (DISCovery), focuses on measurement of
+diagnostic safety. Prior work by our DISCovery team includes
+development of a series of Safer Dx framework-guided rules-based
+*e-triggers* that facilitate the measurement of diagnostic errors in
+primary care and emergency department settings. These e-triggers
+enable the measurement of diagnostic safety issues via electronic
+health record data. The resulting set of Safer Dx e-triggers has
+undergone extensive testing and refinement. However, use at particular
+VA sites has necessitated extensive implementation help by our study
+team. As such, we now aim to create a guide that will enable
+implementation of these e-triggers across VA facilities at a national
+level with very little need for direct facilitation by our study team.
+
+VA sites' practices and data may vary, so these Safer Dx e-triggers
+may require customization to optimize their performance and
+effectiveness when implemented into clinical practice at individual
+sites. The guidance we endeavor to create in the guide (to be named
+*Safer Dx EnGAGE*) should allow individual sites to take these
+contextual factors into account and successfully implement the
+e-triggers on their own.
 
 # Audience
 
@@ -31,7 +33,7 @@ needed for sites to implement these Safer Dx e-triggers into practice
 at any VA medical center. The initial phase will involve creation of
 *Safer Dx EnGAGE*, the change package that will provide the guidance and
 support for the implementation of the e-triggers at any VA sites.
-Subsequent phases will involve assessing how sites use Safer Dx EnGAGE
+Subsequent phases will involve assessing how sites use *Safer Dx EnGAGE*
 for learning and improvement.
 
 # Development Process
@@ -67,8 +69,8 @@ content. Key steps include:
    dissemination and implementation of the resource.
 
 Although stakeholders will co-create the resource with us, we have
-created an initial framework for what might go in the Safer Dx EnGAGE
-resource as a starting off point. This is described below but will
+created an initial framework for what might go in the *Safer Dx EnGAGE*
+resource as a starting point. This is described below but will
 likely change with stakeholder input.
 
 
@@ -86,11 +88,9 @@ This section will provide a brief orientation to the issue of
 diagnostic safety measurement and its relevance to organizations.
 Users are introduced to the potential benefits of adopting strategies
 described in the toolkit. Users are also oriented to the general idea
-that:
-
-VA Medical centers vary in their structure and organization, their
-patient populations, and their operational goals. As such there may be
-a need for some changes or additions to current practices at
+that VA Medical centers vary in their structure, organization,
+patient populations, and operational goals. As such there
+may be a need for some changes or additions to current practices at
 participating centers to prepare for the implementation of the Safer
 Dx e-triggers. Implementation of new measurement strategies and change
 approaches must account for organizational and other non-technical
