@@ -26,13 +26,13 @@ into account and successfully implement the e-triggers on their own.
 
 # Audience
 
-This proposal will outline the "Diagnosis Improvement Safety Center"
-(DISCovery) plan to implement these Safer Dx e-triggers into practice
-at VA medical centers. The initial phase will involve a pilot in the
-primary care setting to test a Safer Dx e-trigger change
-package/resource called *Safer Dx ENGAGE*. The change package will
-provide the guidance and support for the implementation of the
-e-triggers at any VA sites.
+This proposal will outline DISCovery's plan to create the guidance
+needed for sites to implement these Safer Dx e-triggers into practice
+at any VA medical center. The initial phase will involve creation of
+*Safer Dx ENGAGE*, the change package that will provide the guidance and
+support for the implementation of the e-triggers at any VA sites.
+Subsequent phases will involve assessing how sites use Safer Dx ENGAGE
+for learning and improvement.
 
 # Format
 
