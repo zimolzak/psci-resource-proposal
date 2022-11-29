@@ -34,28 +34,6 @@ support for the implementation of the e-triggers at any VA sites.
 Subsequent phases will involve assessing how sites use Safer Dx ENGAGE
 for learning and improvement.
 
-# Format
-
-*Safer Dx ENGAGE* will guide VA facilities to implement e-triggers in
-primary care. Broadly, the process will follow the *Measure Dx*
-Resource[^measure] to inform and guide sites with:
-
-1. Preparation and orientation to the fundamentals of diagnostic
-safety
-
-2. Assembling a team with necessary structure and other resources
-
-3. Self-assessment and identification of appropriate e-trigger(s)
-
-4. Electronic health record-enhanced chart review
-
-5. Review of e-trigger designated cases to confirm accuracy, and any
-required e-trigger customization.
-
-6. Assessment of triggers' implementation (the roll out and testing of
-the e-triggers into practice, and the measurement of the triggers' use
-and effectiveness)
-
 # Development Process
 
 We will approach the design and development of the *Safer Dx ENGAGE*
@@ -87,6 +65,11 @@ content. Key steps include:
    experiences of using the resource, barriers and facilitators to
    taking acting on recommendations, and additional considerations for
    dissemination and implementation of the resource.
+
+Although stakeholders will co-create the resource with us, we have
+created an initial framework for what might go in the Safer Dx EnGAGE
+resource as a starting off point. This is described below but will
+likely change with stakeholder input.
 
 
 
