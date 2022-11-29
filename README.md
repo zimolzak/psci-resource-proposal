@@ -1,22 +1,28 @@
-% VA PSCI DISCovery Resource Proposal
+% VA PSCI DISCovery Resource Proposal for Safer Dx EnGAGE
 % Roni Matin, Ashley Meyer, Andrew Zimolzak
 % 2022-11-28
 
 # Objective
 
-This VA Patient Safety Center of Inquiry (PSCI) focuses on measurement
-of patient safety. Prior work by the Center for Innovations in
-Quality, Effectiveness and Safety (IQuESt) has been conducted to
-develop a series of Safer Dx framework-guided rules-based *e-triggers*
-to facilitate the measurement of diagnostic errors in primary care and
-emergency department settings. These e-triggers enabled the
+This VA Patient Safety Center of Inquiry (PSCI), Houston's Diagnosis Improvement Safety Center (DISCovery), focuses on measurement
+of diagnostic safety. Prior work by our DISCovery team includes
+development of a series of Safer Dx framework-guided rules-based *e-triggers*
+that facilitate the measurement of diagnostic errors in primary care and
+emergency department settings. These e-triggers enable the
 measurement of diagnostic safety issues via electronic health record
-data. The resulting set of Safer Dx e-triggers have undergone
-extensive testing and refinement. This PSCI endeavor aims to implement
-these e-triggers across VA facilities at a nation level. However, VA
-sites' practices and data may vary so these Safer Dx e-triggers may
+data. The resulting set of Safer Dx e-triggers has undergone
+extensive testing and refinement.
+However, use at particular VA sites has necessitated extensive
+implementation help by our study team. As such, we now
+aim to
+create a guide that will enable implementation of
+these e-triggers across VA facilities at a national level with very little need for direct facilitation by our study team. VA
+sites' practices and data may vary, so these Safer Dx e-triggers may
 require customization to optimize their performance and effectiveness
 when implemented into clinical practice at individual sites.
+The guidance we endeavor to create in the guide (to be named Safer Dx
+EnGAGE) should allow individual sites to take these contextual factors
+into account and successfully implement the e-triggers on their own.
 
 # Audience
 
