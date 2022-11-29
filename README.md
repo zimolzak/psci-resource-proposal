@@ -31,7 +31,7 @@ e-triggers on their own.
 This proposal will outline DISCovery's plan to create the guidance
 needed for sites to implement these Safer Dx e-triggers into practice
 at any VA medical center. The initial phase will involve creation of
-*Safer Dx EnGAGE*, the change package that will provide the guidance and
+*Safer Dx EnGAGE*, the change package that will provide guidance and
 support for the implementation of the e-triggers at any VA sites.
 Subsequent phases will involve assessing how sites use *Safer Dx EnGAGE*
 for learning and improvement.
@@ -45,14 +45,14 @@ organizational users and external subject matter experts. We will
 solicit feedback on both overall and section-specific form and
 content. Key steps include:
 
-1. Early in development we will engage stakeholders to reach consensus
+1. Early in development, we will engage stakeholders to reach consensus
    on the scope and general form of the resource. The initial
    stakeholder meetings will be used to create a "shared mental model"
    of the resource.
 
 2. Consistent with a coproduction approach, we will iteratively design
-   a working draft of resource working with small groups of two or
-   three people focusing on (a) the resource as a whole and (b)
+   a working draft of the resource, working with small groups of two or
+   three people, focusing on (a) the resource as a whole, and (b)
    sections for which specific content expertise is needed (*e.g.*,
    the "strategy" module). Teams will include subject matter experts
    and representative potential organizational users for the resource.
@@ -64,8 +64,8 @@ content. Key steps include:
    additional refinements based on their feedback.
 
 4. We will conduct a pilot test to evaluate potential end users'
-   experiences of using the resource, barriers and facilitators to
-   taking acting on recommendations, and additional considerations for
+   experiences of using the resource, barriers/facilitators to
+   acting on recommendations, and additional considerations for
    dissemination and implementation of the resource.
 
 Although stakeholders will co-create the resource with us, we have
@@ -116,8 +116,8 @@ facilitate e-trigger use. They may have different existing interests
 or roles within the organization, but they will need to come together
 to successfully use and learn from the e-triggers at their site. The
 team will engage leadership and other stakeholders throughout the
-organization, raise awareness and promote the projects goals and tasks
-in order to achieve buy-in from the wider stakeholder community. This
+organization, raising awareness and promoting the project's goals
+to achieve buy-in from the wider stakeholder community. This
 section will describe possible roles on the stakeholder team,
 including: clinical leadership, clinical operations, project manager,
 quality improvement, patient safety, chart reviewer, data manager,
@@ -203,14 +203,14 @@ the new e-trigger's output data is again reviewed by chart reviewers.
   stakeholders may suggest changes to the inclusion and exclusion
   criteria to the developers, who will revise the e-trigger code.
 
-- The new revised e-trigger will be run, the same process of chart
+- The newly revised e-trigger will be run, the same process of chart
   review to check for accuracy and clinical relevance will be repeated,
   and any changes recommended will be made to the e-trigger. This
   process will be repeated until the accuracy and clinical relevance
   reach or exceed the agreed threshold.
 
-- Once the e-trigger has been optimized and clinicians give
-  confirmation of its accuracy to retrieve data identifying
+- Once the e-trigger has been optimized and clinicians confirm
+  its accuracy to retrieve data identifying
   opportunities for diagnostic safety improvements, this actionable
   information will be communicated to stakeholders (especially quality
   and safety personnel), who will need to become knowledgeable on how
@@ -247,7 +247,7 @@ display the data. Engagement with informatics personnel will
 support the efforts to operationalize the dissemination of the
 e-trigger results. Participants will analyze and communicate the
 retrieved data by way of graphs, reports, interactive dashboards with
-drill down capabilities, and other enhanced data
+drill-down capabilities, and other enhanced data
 visualization mechanisms.
 
 In addition to data display of the results obtained, informatics
@@ -264,13 +264,12 @@ organizational operations.
 
 Site stakeholders should review and determine how the process was used
 for (1) analysis, (2) feedback, and (3) learning. Project
-completion/debriefing meetings may be held to gather feedback from
-stakeholders (especially clinical leaders and clinicians), but also
-from the wider stakeholder team. In other words, was *Safer Dx EnGAGE*
+completion/debriefing meetings may be held to gather feedback
+from clinical leaders, clinicians, and
+the wider stakeholder team. In other words, was *Safer Dx EnGAGE*
 appropriate for the task?
-
-The aim of this step is to recommend ways that users can choose a
-diagnostic safety target considering organization priorities,
+This step aims to recommend ways that users can choose a
+diagnostic safety target considering organizational priorities,
 available resources, and availability of data relevant to the team's
 goal.
 
