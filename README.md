@@ -272,6 +272,18 @@ availability of data relevant to the team's goal.
 
 
 
+# Addendum: Implementing elsewhere
+
+What if you are a future user of *Safer Dx EnGAGE* who wants to
+implement e-triggers in a VA, but *using Cerner?* Or what if you
+happened upon this resource but don't work within VA?
+
+This section will be analogous with a prior seven-step process about
+electronic trigger tools for diagnostic safety.[^application]
+
+
+
+
 [^measure]: Bradford A, Singh H. Measure Dx: A Resource To Identify,
 Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
 22-0030. May 2022.
@@ -297,3 +309,7 @@ va.gov/vhapublications/ViewPublication.asp?pub_ID=3148 and also the
 *Communication Of Test Results Toolkit* SharePoint site (on VA
 intranet), at
 dvagov.sharepoint.com/sites/VACOVHADUSHOM/10NC/10NC3/CTR/default.aspx
+
+[^application]: Murphy DR, Meyer AN, Sittig DF, Meeks DW, Thomas EJ,
+Singh H. Application of electronic trigger tools to identify targets
+for improving diagnostic safety. *BMJ Qual Saf.* 2019;28(2):151.
