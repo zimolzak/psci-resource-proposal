@@ -1,26 +1,3 @@
-# (3) Self-Assessment: Assessment and identification of appropriate e-trigger(s)
-
-This section will guide sites to determine their priorities and
-understand how e-triggers could be employed to have the greatest impact.
-The *Measure Dx Organizational Readiness Checklist*[^3] will provide a
-framework for this step.[^4] Sites will select one or more measurement
-strategies, and they will ensure that sufficient resources are available
-for diagnostic safety measurement activities. Sites must ensure
-sufficient personnel and technical resources are available and enrolled
-on the project to:
-
-1.  Determine what diagnostic safety tools already exist at the medical
-    center.
-
-2.  Collect data about diagnostic safety.
-
-3.  Respond effectively when opportunities for improvement are
-    discovered.
-
-The *Measure Dx Checklist* will aid participating facilities in
-assessing their readiness to start the project and where further efforts
-may be required before beginning.
-
 # (4) Strategy: Implement electronic health record-based trigger and prepare for chart review
 
 VA facilities may use EHR data to inform their measurement of diagnostic

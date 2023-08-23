@@ -144,18 +144,22 @@ team’s work.
 
 # (4) Self-Assessment: Assessment and identification of appropriate e-trigger(s)
 
-This section will guide an implementing site to determine its
-priorities and how e-triggers could be employed to have the most
-impact. The *Measure Dx Checklist*[^appendix] will provide a framework
-for this step.[^measure] Sites will select one or more measurement
-strategies, and they will ensure that sufficient resources are
-available for diagnostic safety measurement activities. Sites must
-ensure sufficient personnel and technical resources are available and
-enrolled on the project to:
+This section will guide sites to determine their priorities and
+understand how e-triggers could be employed to have the greatest impact.
+The *Measure Dx Organizational Readiness Checklist*[^appendix] will provide a
+framework for this step.[^measure] Sites will select one or more measurement
+strategies, and they will ensure that sufficient resources are available
+for diagnostic safety measurement activities. Sites must ensure
+sufficient personnel and technical resources are available and enrolled
+on the project to:
 
-1. Collect information about diagnostic safety
+1.  Determine what diagnostic safety tools already exist at the medical
+    center.
 
-2. Respond effectively when learning opportunities are discovered
+2.  Collect data about diagnostic safety.
+
+3.  Respond effectively when opportunities for improvement are
+    discovered.
 
 The *Measure Dx Checklist* will aid participating facilities in
 assessing their readiness to start the project and where further
