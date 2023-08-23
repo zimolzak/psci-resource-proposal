@@ -98,17 +98,17 @@ Text.
 
 # (2) Introduction: Orientation to the fundamentals of diagnostic safety
 
-This section will provide a brief orientation to the issue of
-diagnostic safety measurement and its relevance to organizations.
-Users are introduced to the potential benefits of adopting strategies
+The introduction will provide a brief orientation to the issue of
+diagnostic safety measurement and its relevance to organizations. Users
+are introduced to the potential benefits of adopting strategies
 described in the toolkit. Users are also oriented to the general idea
 that VA Medical centers vary in their structure, organization, patient
-populations, and operational goals. As such there may be a need for
-some changes or additions to current practices at participating
-centers to prepare for the implementation of the Safer Dx e-triggers.
-Implementation of new measurement strategies and change approaches
-must account for organizational and other non-technical issues, or
-electronic tools will not lead to improvements.[^model]
+populations, and operational goals. As such there may be a need for some
+changes or additions to current practices at participating centers to
+prepare for the implementation of the Safer Dx e-triggers.
+Implementation of new measurement strategies and change management
+processes must account for organizational and other non-technical
+issues, or electronic tools will not lead to improvements.[^model]
 
 
 
