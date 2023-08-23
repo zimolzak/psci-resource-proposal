@@ -1,23 +1,3 @@
-# Objective
-
-
-# Audience
-
-
-# Development Process
-
-
-
-
-# Overview of Safer Dx EnGAGE
-
-
-# (1) Introduction: Orientation to the fundamentals of diagnostic safety
-
-
-# (2) Team: Assembling a team with necessary expertise and other resources needed for implementing e-triggers
-
-
 # (3) Self-Assessment: Assessment and identification of appropriate e-trigger(s)
 
 This section will guide sites to determine their priorities and
