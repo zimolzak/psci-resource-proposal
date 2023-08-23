@@ -74,8 +74,10 @@ change with stakeholder input.
 # Overview of Safer Dx EnGAGE
 
 *Safer Dx EnGAGE* will guide VA facilities to implement e-triggers in
-primary care. Broadly, the guide will follow the *Measure Dx
-Resource*[^measure] to inform sites about the following:
+primary care. It will broadly follow advice previously given in the
+*Measure Dx Resource*[^measure] (which advises hospital systems about
+measuring and preventing diagnostic errors). Like *Measure Dx*, *Safer
+Dx EnGAGE* will include the following major sections.
 
 
 
