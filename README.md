@@ -1,6 +1,6 @@
-% VA PSCI DISCovery Resource Proposal for Safer Dx EnGAGE
-% Roni Matin, Ashley Meyer, Andrew Zimolzak
-% 2022-11-29
+% VA DISCovery Resource Proposal for Safer Dx EnGAGE
+% Roni Matin, Ashley Meyer, Jennifer Sloane, Hardeep Singh, Andrew Zimolzak
+% 2023-08-23
 
 # Objective
 
