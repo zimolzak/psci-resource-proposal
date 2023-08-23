@@ -184,15 +184,18 @@ points:
 3. Is there a team member who understands clinical data
    quality/validation?
 
-4. Does the HCO have a coordinated process for requesting EHR data,
-   running queries, and generating reports?
+4.  Identify the process for requesting EHR data, running queries, and
+    generating reports
 
-Each site should decide who within the organization is ultimately
-going to receive the data, meaning who is going to take action based
-on it.[^feedback] This will guide the format in which recipients wish
-to receive feedback and ensure all the desired data elements will be
-retrieved by the e-trigger code. See also: VA's *Communication Of Test
-Results Toolkit*.[^toolkit]
+Each site should decide who within the organization is ultimately going
+to receive the data, meaning who is going to take action based on
+it.[^feedback] In previous projects, database personnel at certain sites did
+not know the names of the clinical team members who would validate
+e-trigger cases; this should be avoided. Communication with end users
+will also guide the format in which recipients wish to receive feedback
+and ensure all the desired data elements will be retrieved by the
+e-trigger code. See also: VA's *Communication Of Test Results
+Toolkit*.[^toolkit]
 
 
 

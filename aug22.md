@@ -1,31 +1,3 @@
-# (4) Strategy: Implement electronic health record-based trigger and prepare for chart review
-
-VA facilities may use EHR data to inform their measurement of diagnostic
-safety. This approach could also be augmented with the strategy of
-soliciting information about diagnostic safety directly from clinicians.
-Additionally, facilities should address the following points:
-
-1.  Identify the appropriate EHR data warehouse for queries
-
-2.  Who will access the data warehouse and support the team with EHR
-    queries?
-
-3.  Is there a team member who understands clinical data
-    quality/validation?
-
-4.  Identify the process for requesting EHR data, running queries, and
-    generating reports
-
-Each site should decide who within the organization is ultimately going
-to receive the data, meaning who is going to take action based on
-it.[^5] In previous projects, database personnel at certain sites did
-not know the names of the clinical team members who would validate
-e-trigger cases; this should be avoided. Communication with end users
-will also guide the format in which recipients wish to receive feedback
-and ensure all the desired data elements will be retrieved by the
-e-trigger code. See also: VA's *Communication Of Test Results
-Toolkit*.[^6]
-
 # (5) Review: Review of e-trigger identified cases to confirm accuracy, and any required e-trigger customization
 
 An important step in the development of any e-trigger is ensuring its
