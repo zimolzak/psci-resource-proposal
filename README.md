@@ -2,7 +2,9 @@
 % Roni Matin, Ashley Meyer, Jennifer Sloane, Hardeep Singh, Andrew Zimolzak
 % 2023-08-23
 
-# Objective
+# Proposal
+
+## Objective
 
 The Diagnosis Improvement Safety Center (DISCovery), funded by VA's
 National Center for Patient Safety, focuses on measurement of diagnostic
@@ -24,7 +26,7 @@ this guide (to be named *Safer Dx EnGAGE*) is to allow individual sites
 to take these contextual factors into account and successfully implement
 the e-triggers on their own.
 
-# Audience
+## Audience
 
 This proposal will outline our plan to create the guidance needed for
 sites to implement these Safer Dx e-triggers into practice at any VA
@@ -34,7 +36,7 @@ implementation of the e-triggers at any VA sites. Subsequent phases will
 involve assessing how sites use *Safer Dx EnGAGE* for learning and
 improvement.
 
-# Development Process
+## Development Process
 
 We will approach the design and development of the *Safer Dx EnGAGE*
 resource iteratively, seeking feedback from stakeholders, including
@@ -71,19 +73,30 @@ created an initial framework for what might go in the *Safer Dx EnGAGE*
 resource as a starting point. This is described below but will likely
 change with stakeholder input.
 
-# Overview of Safer Dx EnGAGE
+## Overview of Safer Dx EnGAGE
 
 *Safer Dx EnGAGE* will guide VA facilities to implement e-triggers in
 primary care. It will broadly follow advice previously given in the
 *Measure Dx Resource*[^measure] (which advises hospital systems about
 measuring and preventing diagnostic errors). Like *Measure Dx*, *Safer
-Dx EnGAGE* will include the following major sections.
+Dx EnGAGE* will proceed according to the following outline.
 
 
 
 
+* * *
 
-## Introduction: Orientation to the fundamentals of diagnostic safety
+
+
+
+# (1) New section: Something
+
+Text.
+
+
+
+
+# (2) Introduction: Orientation to the fundamentals of diagnostic safety
 
 This section will provide a brief orientation to the issue of
 diagnostic safety measurement and its relevance to organizations.
@@ -100,7 +113,7 @@ electronic tools will not lead to improvements.[^model]
 
 
 
-## Team: Assembling a team with necessary expertise and other resources needed for implementing e-triggers
+# (3) Team: Assembling a team with necessary expertise and other resources needed for implementing e-triggers
 
 Successful implementation and use of e-triggers depends on
 participation of many individuals at a site. For example, buy-in from
@@ -129,7 +142,7 @@ team’s work.
 
 
 
-## Self-Assessment: Assessment and identification of appropriate e-trigger(s)
+# (4) Self-Assessment: Assessment and identification of appropriate e-trigger(s)
 
 This section will guide an implementing site to determine its
 priorities and how e-triggers could be employed to have the most
@@ -151,7 +164,7 @@ efforts may be required before beginning.
 
 
 
-## Strategy: Electronic health record-enhanced chart review
+# (5) Strategy: Electronic health record-enhanced chart review
 
 VA facilities may use EHR data to inform their measurement of
 diagnostic safety. This approach could also be augmented with the
@@ -180,7 +193,7 @@ Results Toolkit*.[^toolkit]
 
 
 
-## Review: Review of e-trigger identified cases to confirm accuracy, and any required e-trigger customization.
+# (6) Review: Review of e-trigger identified cases to confirm accuracy, and any required e-trigger customization.
 
 An important step in the development of any e-trigger is ensuring its
 accuracy and clinical relevance. This is achieved by the verification
@@ -236,9 +249,9 @@ presence/absence of missed opportunities for diagnosis.
 
 
 
-## Assessment: Analysis of e-trigger implementation
+# (7) Assessment: Analysis of e-trigger implementation
 
-### Putting knowledge obtained into action
+## Putting knowledge obtained into action
 
 The results retrieved from the e-trigger may be in a format that is
 not conducive to interpretation by personnel from diverse backgrounds.
@@ -259,7 +272,7 @@ results. This documentation process for the e-trigger queries and
 other associated technical requirements will enable future
 enhancements as necessitated by changes in organizational operations.
 
-### Developing Strategies to Learn from the Project
+## Developing Strategies to Learn from the Project
 
 Site stakeholders should review and determine how the process was used
 for (1) analysis, (2) feedback, and (3) learning. Project
