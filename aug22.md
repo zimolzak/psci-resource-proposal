@@ -17,29 +17,6 @@
 
 # (2) Team: Assembling a team with necessary expertise and other resources needed for implementing e-triggers
 
-Successful implementation and use of e-triggers depends on participation
-of many individuals at any given site. For example, buy-in from
-leadership as well as the user community of an organization is necessary
-for successful implementation. This section will guide users to identify
-those interested and invested in use of e-triggers for diagnostic safety
-measurement as well as identify all resources needed to accomplish
-e-trigger implementation.
-
-Key individuals within the organization may be involved in terms of
-implementing the e-triggers or refining content for the e-triggers.
-Individuals should work as an engaged team with dedicated hours to
-facilitate e-trigger use. They may have different existing interests or
-roles within the organization, but they will need to come together to
-successfully use and learn from the e-triggers at their site. The team
-will need to engage leadership and other stakeholders throughout the
-organization, raising awareness and promoting the project's goals to
-achieve buy-in from the wider stakeholder community. This section will
-describe possible roles on the stakeholder team, including: clinical
-leadership, clinical operations, project manager, quality improvement,
-patient safety, chart reviewer, data manager, system administrator,
-programmers, and developers. Additionally, a structured change
-management process will be outlined in the resource to facilitate the
-team's work.
 
 # (3) Self-Assessment: Assessment and identification of appropriate e-trigger(s)
 

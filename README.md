@@ -116,11 +116,11 @@ issues, or electronic tools will not lead to improvements.[^model]
 # (3) Team: Assembling a team with necessary expertise and other resources needed for implementing e-triggers
 
 Successful implementation and use of e-triggers depends on
-participation of many individuals at a site. For example, buy-in from
+participation of many individuals at any given site. For example, buy-in from
 leadership as well as the user community of an organization is
 necessary for successful implementation. This section will guide users
 to identify those interested and invested in use of e-triggers for
-diagnostic safety measurement as well as identify those needed to
+diagnostic safety measurement as well as identify all resources needed to
 accomplish e-trigger implementation.
 
 Key individuals within the organization may be involved in terms of
@@ -129,7 +129,7 @@ Individuals should work as an engaged team with dedicated hours to
 facilitate e-trigger use. They may have different existing interests
 or roles within the organization, but they will need to come together
 to successfully use and learn from the e-triggers at their site. The
-team will engage leadership and other stakeholders throughout the
+team will need to engage leadership and other stakeholders throughout the
 organization, raising awareness and promoting the project's goals to
 achieve buy-in from the wider stakeholder community. This section will
 describe possible roles on the stakeholder team, including: clinical
