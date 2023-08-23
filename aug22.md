@@ -1,24 +1,5 @@
 # Objective
 
-The Diagnosis Improvement Safety Center (DISCovery), funded by VA's
-National Center for Patient Safety, focuses on measurement of diagnostic
-safety. Prior work by our DISCovery team includes the development of a
-series of Safer Dx framework-guided rules-based *e-triggers* that, via
-the electronic health record, facilitate the measurement of diagnostic
-errors in primary care and emergency department settings. The resulting
-set of Safer Dx e-triggers has undergone extensive testing and
-refinement. However, use at particular VA sites has necessitated
-extensive implementation help by our study team in the past. As such, we
-now aim to create a guide that will enable implementation of these
-e-triggers across VA facilities at a national level with very little
-need for direct facilitation by our study team.
-
-VA sites' practices and data may vary, so these Safer Dx e-triggers may
-require customization to optimize their performance and effectiveness
-when implemented into clinical practice at individual sites. The goal of
-this guide (to be named *Safer Dx EnGAGE*) is to allow individual sites
-to take these contextual factors into account and successfully implement
-the e-triggers on their own.
 
 # Audience
 
