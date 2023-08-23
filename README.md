@@ -266,29 +266,28 @@ The results retrieved from the e-trigger may be in a format that is
 not conducive to interpretation by personnel from diverse backgrounds.
 To maximize utilization of the results obtained, this stage of the
 project will focus on improving user interfaces of the tools used to
-display the data. Engagement with informatics personnel will support
-the efforts to operationalize the dissemination of the e-trigger
-results. Participants will analyze and communicate the retrieved data
+display the data. Engagement with informatics personnel will help disseminate the
+e-trigger results. Participants will analyze and communicate the retrieved data
 by way of graphs, reports, interactive dashboards with drill-down
 capabilities, and other enhanced data visualization mechanisms.
 
-In addition to data display of the results obtained, informatics
-personnel in the stakeholder team will support the sustainability of
-the e-triggers by being closely involved with the enhancement of the
-queries. Users will work on standardized data definitions, analytic
+In addition to developing visualization tools for displaying the
+results, informatics personnel in the stakeholder team will support the
+sustainability of the e-triggers by being closely involved with the
+enhancement of the queries. Front-line users will give feedback to data
+personnel, which will inform standardized data definitions, analytical
 approaches, and methods to display and communicate the e-trigger
-results. This documentation process for the e-trigger queries and
-other associated technical requirements will enable future
-enhancements as necessitated by changes in organizational operations.
+results. This documentation process for the e-trigger queries and other
+associated technical requirements will enable future enhancements as
+necessitated by changes in organizational operations.
 
-## Developing strategies to learn from the project
+## Developing strategies to learn from the e-triggers
 
-Site stakeholders should review and determine how the process was used
+Site stakeholders should review and determine how the e-triggers were used
 for (1) analysis, (2) feedback, and (3) learning. Project
 completion/debriefing meetings may be held to gather feedback from
-clinical leaders, clinicians, and the wider stakeholder team. In other
-words, was *Safer Dx EnGAGE* appropriate for the task? This step aims
-to recommend ways that users can choose a diagnostic safety target
+clinical leaders, clinicians, and the wider stakeholder team. This step
+aims to recommend ways that users can choose a diagnostic safety target
 considering organizational priorities, available resources, and
 availability of data relevant to the team's goal.
 
