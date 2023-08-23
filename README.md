@@ -26,13 +26,13 @@ the e-triggers on their own.
 
 # Audience
 
-This proposal will outline DISCovery's plan to create the guidance
-needed for sites to implement these Safer Dx e-triggers into practice
-at any VA medical center. The initial phase will involve creation of
-*Safer Dx EnGAGE*, the change package that will provide guidance and
-support for the implementation of the e-triggers at any VA sites.
-Subsequent phases will involve assessing how sites use *Safer Dx
-EnGAGE* for learning and improvement.
+This proposal will outline our plan to create the guidance needed for
+sites to implement these Safer Dx e-triggers into practice at any VA
+medical center. The initial phase will involve creation of *Safer Dx
+EnGAGE*, the guide that will provide step-by-step instructions for the
+implementation of the e-triggers at any VA sites. Subsequent phases will
+involve assessing how sites use *Safer Dx EnGAGE* for learning and
+improvement.
 
 # Development Process
 
