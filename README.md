@@ -37,48 +37,49 @@ improvement.
 # Development Process
 
 We will approach the design and development of the *Safer Dx EnGAGE*
-resource iteratively, such that at multiple points during development
-we will seek feedback from stakeholders including potential
-organizational users and external subject matter experts. We will
-solicit feedback on both overall and section-specific form and
-content. Key steps include:
+resource iteratively, seeking feedback from stakeholders, including
+potential organizational users and external subject matter experts along
+the way. We will solicit feedback on the overall content (e.g., did we
+include all of the sections that would be needed for someone to
+successfully implement triggers) as well as on the detailed content. Key
+steps include:
 
-1. Early in development, we will engage stakeholders to reach
-   consensus on the scope and general form of the resource. The
-   initial stakeholder meetings will be used to create a "shared
-   mental model" of the resource.
+1.  Early in development, we will engage stakeholders to reach consensus
+    on the scope and general form of the resource. The initial
+    stakeholder meetings will be used to create a "shared mental model"
+    of the resource.
 
-2. Consistent with a coproduction approach, we will iteratively design
-   a working draft of the resource, working with small groups of two
-   or three people, focusing on (a) the resource as a whole, and (b)
-   sections for which specific content expertise is needed (*e.g.*,
-   the "strategy" module). Teams will include subject matter experts
-   and representative potential organizational users for the resource.
-   Their feedback (obtained using a series of coproduction sessions)
-   will be used to refine the resource's content and guide development
-   of the remaining content.
+2.  We will iteratively design a working draft of the resource, working
+    with small groups of two or three people, focusing on (a) the
+    resource as a whole, and on (b) sections for which specific content
+    expertise is needed. Teams will include subject matter experts and
+    representative potential organizational users for the resource.
+    Their feedback (obtained using a series of coproduction sessions)
+    will be used to refine the resource's content and guide development
+    of the remaining content.
 
-3. We will present a final draft to key stakeholders and make
-   additional refinements based on their feedback.
+3.  We will present a draft to key stakeholders and make additional
+    refinements based on their feedback.
 
-4. We will conduct a pilot test to evaluate potential end users'
-   experiences of using the resource, barriers/facilitators to acting
-   on recommendations, and additional considerations for dissemination
-   and implementation of the resource.
+4.  We will conduct a pilot test to evaluate potential end users'
+    experiences of using the resource, the barriers/facilitators to
+    acting on recommendations, and additional considerations for
+    dissemination and implementation of the resource.
 
 Although stakeholders will co-create the resource with us, we have
-created an initial framework for what might go in the *Safer Dx
-EnGAGE* resource as a starting point. This is described below but will
-likely change with stakeholder input.
-
-
-
+created an initial framework for what might go in the *Safer Dx EnGAGE*
+resource as a starting point. This is described below but will likely
+change with stakeholder input.
 
 # Overview of Safer Dx EnGAGE
 
 *Safer Dx EnGAGE* will guide VA facilities to implement e-triggers in
 primary care. Broadly, the guide will follow the *Measure Dx
 Resource*[^measure] to inform sites about the following:
+
+
+
+
 
 ## Introduction: Orientation to the fundamentals of diagnostic safety
 
