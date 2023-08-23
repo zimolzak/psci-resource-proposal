@@ -89,9 +89,16 @@ Dx EnGAGE* will proceed according to the following outline.
 
 
 
-# (1) New section: Something
+# (1) Purpose statement
 
-Text.
+purpose stmt for clinicians: "To ident pts at risk for dx safety events." Prove it that this is currently not possible.
+
+purpose stmt for qual safe and admin ppl: "do same but at clinic or facil level."
+
+selling point, decide what's most approp for you (your va).
+
+who is WHICH SECTION for? Perhaps infographic. {saying "certain users"} $\to$ like a matrix thing. Section 1 is for you, sec 2 is other person.
+
 
 
 
@@ -164,6 +171,19 @@ on the project to:
 The *Measure Dx Checklist* will aid participating facilities in
 assessing their readiness to start the project and where further
 efforts may be required before beginning.
+
+
+
+
+lot more emph on: FIND WHAT (dashboard) EXIST(S) and don't reinvent it.
+
+## Types of triggers
+
+Insert here.
+
+## Case study
+
+little "box 1" case study, "greater La found out that this was already implemented, so they decided to...."
 
 
 
