@@ -36,7 +36,7 @@ implementation of the e-triggers at any VA sites. Subsequent phases will
 involve assessing how sites use *Safer Dx EnGAGE* for learning and
 improvement.
 
-## Development Process
+## Development process
 
 We will approach the design and development of the *Safer Dx EnGAGE*
 resource iteratively, seeking feedback from stakeholders, including
@@ -168,7 +168,7 @@ efforts may be required before beginning.
 
 
 
-# (5) Strategy: Electronic health record-enhanced chart review
+# (5) Strategy: Implement electronic health record-based trigger and prepare for chart review
 
 VA facilities may use EHR data to inform their measurement of
 diagnostic safety. This approach could also be augmented with the
@@ -276,7 +276,7 @@ results. This documentation process for the e-trigger queries and
 other associated technical requirements will enable future
 enhancements as necessitated by changes in organizational operations.
 
-## Developing Strategies to Learn from the Project
+## Developing strategies to learn from the project
 
 Site stakeholders should review and determine how the process was used
 for (1) analysis, (2) feedback, and (3) learning. Project
