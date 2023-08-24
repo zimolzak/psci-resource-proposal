@@ -86,9 +86,10 @@ Dx EnGAGE* will proceed according to the following outline.
 
 * * *
 
-<div custom-style="TitleRepeat">Title</div>
 
 
+
+<div custom-style="TitleRepeat">Outline of Safer Dx EnGAGE</div>
 
 # (1) Purpose statement
 
@@ -105,13 +106,16 @@ Selling point: will help you decide what's most approp for you (your VA).
 
 Who is *which section* for?
 
+
+* * *
+
 Role  Intro  Team  Self-Assessment  Implemen  Review  Assessment
 ----  -----  ----  ---------------  -----     ----    -----
 cham  yes    yes   yes                                yes
 clin  yes                                     yes
 data  yes                           yes
 
-
+* * *
 
 
 # (2) Introduction: Orientation to the fundamentals of diagnostic safety
