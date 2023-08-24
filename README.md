@@ -91,10 +91,9 @@ Dx EnGAGE* will proceed according to the following outline.
 # (1) Why this guide?
 
 For clinicians:
-: To identify patients at risk for diagnostic safety events. Prove
-that this is currently not possible.
-
-FIXME
+: To identify patients at risk for diagnostic safety events. This
+should focus on a form of safety event detection that is currently not
+possible.
 
 For quality, safety, and administrative personnel:
 : To identify patients at risk for diagnostic safety events, at the
