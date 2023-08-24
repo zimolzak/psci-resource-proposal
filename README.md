@@ -2,9 +2,7 @@
 % Roni Matin; Ashley Meyer; Jennifer Sloane; Hardeep Singh; Andrew Zimolzak
 % 2023-08-23
 
-# Proposal
-
-## Objective
+# Objective
 
 The Diagnosis Improvement Safety Center (DISCovery), funded by VA's
 National Center for Patient Safety, focuses on measurement of diagnostic
@@ -26,7 +24,7 @@ this guide (to be named *Safer Dx EnGAGE*) is to allow individual sites
 to take these contextual factors into account and successfully implement
 the e-triggers on their own.
 
-## Audience
+# Audience
 
 This proposal will outline our plan to create the guidance needed for
 sites to implement these Safer Dx e-triggers into practice at any VA
@@ -36,7 +34,7 @@ implementation of the e-triggers at any VA sites. Subsequent phases will
 involve assessing how sites use *Safer Dx EnGAGE* for learning and
 improvement.
 
-## Development process
+# Development process
 
 We will approach the design and development of the *Safer Dx EnGAGE*
 resource iteratively, seeking feedback from stakeholders, including
@@ -73,7 +71,7 @@ created an initial framework for what might go in the *Safer Dx EnGAGE*
 resource as a starting point. This is described below but will likely
 change with stakeholder input.
 
-## Overview of Safer Dx EnGAGE
+# Overview of Safer Dx EnGAGE
 
 *Safer Dx EnGAGE* will guide VA facilities to implement e-triggers in
 primary care. It will broadly follow advice previously given in the
@@ -91,31 +89,34 @@ Dx EnGAGE* will proceed according to the following outline.
 
 <div custom-style="TitleRepeat">Outline of Safer Dx EnGAGE</div>
 
-# (1) Purpose statement
+# (1) Why this guide?
 
-FIXME
+For clinicians:
+: To identify patients at risk for diagnostic safety events. Prove
+that this is currently not possible.
 
-For clinicians: *To identify patients at risk for diagnostic safety
-events.* Prove that this is currently not possible.
+For quality, safety, and administrative personnel:
+: To identify patients at risk for diagnostic safety events, at the
+clinic or facility level.
 
-For quality, safety, and administrative personnel: *To identify
-patients at risk for diagnostic safety events, at the clinic or
-facility level.*
+This guide will help you not only find patients at risk for diagnostic
+safety events, but *decide what events to focus on,* depending on your
+VAMC's current initiatives, priorities, and capabilities.
 
-Selling point: will help you decide what's most approp for you (your VA).
-
-Who is *which section* for?
-
+The following table illustrates which sections of the guide are most
+relevant to which roles.
 
 * * *
 
 **Section**  **2**  **3**  **4**  **5**  **6**  **7**
 ----         ----   ----   ----   ----   ----   ----
-Champion     Yes    Yes    Yes                  Yes
-Clinician    Yes                         Yes
-IT           Yes                  Yes
+Champion     Yes    Yes    Yes    -      -      Yes
+Clinician    Yes    -      -      -      Yes    -
+IT           Yes    -      -      Yes    -      -
 
 * * *
+
+
 
 
 # (2) Introduction: Orientation to the fundamentals of diagnostic safety
