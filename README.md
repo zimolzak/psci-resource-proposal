@@ -79,13 +79,11 @@ primary care. It will broadly follow advice previously given in the
 measuring and preventing diagnostic errors). Like *Measure Dx*, *Safer
 Dx EnGAGE* will proceed according to the following outline.
 
-
-
-
 * * *
 
+<br/>
 
-
+<br/>
 
 <div custom-style="TitleRepeat">Outline of Safer Dx EnGAGE</div>
 
@@ -177,7 +175,10 @@ sufficient personnel and technical resources are available and enrolled
 on the project to:
 
 1.  Determine what diagnostic safety tools already exist at the medical
-    center.
+    center. For example, what diagnostic tests already have a system
+    in place to promote closed-loop follow-up of abnormals? Or, what
+    data display or dashboard platforms already exist, which could be
+    reused for new e-triggers?
 
 2.  Collect data about diagnostic safety.
 
@@ -188,23 +189,39 @@ The *Measure Dx Checklist* will aid participating facilities in
 assessing their readiness to start the project and where further
 efforts may be required before beginning.
 
+## Types of e-triggers
 
+In the primary care setting, several types of e-triggers have been
+previously described.
 
+- Missed test results
+    - Colon cancer (FOBT, FIT, iron deficiency anemia)
+    - Lung cancer (imaging findings)
+    - TSH
+    - HCC (alpha-fetoprotein)
+    - Bladder cancer (hematuria)
+    - Mammography
+    - PSA
 
-FIXME
-
-A lot more emph on: FIND WHAT (dashboard) EXIST(S) and don't reinvent it.
-
-## Types of triggers
-
-- missed test
-- escalation
+- Care Escalation: Primary care visit followed closely by
+  hospitalization, ER, urgent care, or unplanned primary care visit.
 
 ## Case study
 
-To illustrate, etc etc., here is a case study:
+A short case study will illustrate the use of this guide. In
+particular, this is not a guide for only implementing an e-trigger,
+but a guide for *deciding* the best e-trigger to implement, *and then*
+proceeding to implement it.
 
-> little "box 1" case study, "greater LA found out that this was already implemented, so they decided to...."
+> The VA Greater Los Angeles Healthcare System wanted to implement an
+> e-trigger to improve follow-up of abnormal tests in primary care.
+> After performing some self-assessment activities, they found out
+> that a large initiative already existed for follow-up of abnormal
+> mammograms and lung imaging. On the other hand, they were aware of
+> suboptimal follow-up of outpatient unexplained hematuria,
+> contributed to by several system factors. Therefore, they selected a
+> bladder cancer (hematuria) e-trigger as their top e-trigger of
+> interest.
 
 
 
