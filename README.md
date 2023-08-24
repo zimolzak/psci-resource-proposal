@@ -109,11 +109,11 @@ Who is *which section* for?
 
 * * *
 
-**Role**  **Intro**  **Team**  **Self-Assessment**  **Implement**  **Review**  **Assessment**
-----      -----      ----      ---------------      -----          ----        -----
-Champion  Yes        Yes       Yes                                             Yes
-Clinician Yes                                                      Yes
-IT        Yes                                       Yes
+**Section**  **2**  **3**  **4**  **5**  **6**  **7**
+----         ----   ----   ----   ----   ----   ----
+Champion     Yes    Yes    Yes                  Yes
+Clinician    Yes                         Yes
+IT           Yes                  Yes
 
 * * *
 
