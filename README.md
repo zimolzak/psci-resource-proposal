@@ -2,9 +2,7 @@
 % Roni Matin; Ashley Meyer; Jennifer Sloane; Hardeep Singh; Andrew Zimolzak
 % 2023-08-23
 
-# Proposal
-
-## Objective
+# Objective
 
 The Diagnosis Improvement Safety Center (DISCovery), funded by VA's
 National Center for Patient Safety, focuses on measurement of diagnostic
@@ -26,7 +24,7 @@ this guide (to be named *Safer Dx EnGAGE*) is to allow individual sites
 to take these contextual factors into account and successfully implement
 the e-triggers on their own.
 
-## Audience
+# Audience
 
 This proposal will outline our plan to create the guidance needed for
 sites to implement these Safer Dx e-triggers into practice at any VA
@@ -36,7 +34,7 @@ implementation of the e-triggers at any VA sites. Subsequent phases will
 involve assessing how sites use *Safer Dx EnGAGE* for learning and
 improvement.
 
-## Development process
+# Development process
 
 We will approach the design and development of the *Safer Dx EnGAGE*
 resource iteratively, seeking feedback from stakeholders, including
@@ -73,7 +71,7 @@ created an initial framework for what might go in the *Safer Dx EnGAGE*
 resource as a starting point. This is described below but will likely
 change with stakeholder input.
 
-## Overview of Safer Dx EnGAGE
+# Overview of Safer Dx EnGAGE
 
 *Safer Dx EnGAGE* will guide VA facilities to implement e-triggers in
 primary care. It will broadly follow advice previously given in the
@@ -81,34 +79,40 @@ primary care. It will broadly follow advice previously given in the
 measuring and preventing diagnostic errors). Like *Measure Dx*, *Safer
 Dx EnGAGE* will proceed according to the following outline.
 
+* * *
 
+<br/>
 
+<br/>
+
+<div custom-style="TitleRepeat">Outline of Safer Dx EnGAGE</div>
+
+# (1) Why this guide?
+
+For clinicians:
+: To identify patients at risk for diagnostic safety events. Prove
+that this is currently not possible.
+
+For quality, safety, and administrative personnel:
+: To identify patients at risk for diagnostic safety events, at the
+clinic or facility level.
+
+This guide will help you not only find patients at risk for diagnostic
+safety events, but *decide what events to focus on,* depending on your
+VAMC's current initiatives, priorities, and capabilities.
+
+The following table illustrates which sections of the guide are most
+relevant to which roles.
 
 * * *
 
+**Section**  **2**  **3**  **4**  **5**  **6**  **7**
+----         ----   ----   ----   ----   ----   ----
+Champion     Yes    Yes    Yes    -      -      Yes
+Clinician    Yes    -      -      -      Yes    -
+IT           Yes    -      -      Yes    -      -
 
-
-
-# (1) Purpose statement
-
-FIXME
-
-For clinicians: *To identify patients at risk for diagnostic safety
-events.* Prove that this is currently not possible.
-
-For quality, safety, and administrative personnel: *To identify
-patients at risk for diagnostic safety events, at the clinic or
-facility level.*
-
-Selling point: will help you decide what's most approp for you (your VA).
-
-Who is *which section* for?
-
-Role  Intro  Team  Self-Assessment  Implemen  Review  Assessment
-----  -----  ----  ---------------  -----     ----    -----
-cham  yes    yes   yes                                yes
-clin  yes                                     yes
-data  yes                           yes
+* * *
 
 
 
@@ -171,7 +175,10 @@ sufficient personnel and technical resources are available and enrolled
 on the project to:
 
 1.  Determine what diagnostic safety tools already exist at the medical
-    center.
+    center. For example, what diagnostic tests already have a system
+    in place to promote closed-loop follow-up of abnormals? Or, what
+    data display or dashboard platforms already exist, which could be
+    reused for new e-triggers?
 
 2.  Collect data about diagnostic safety.
 
@@ -182,23 +189,39 @@ The *Measure Dx Checklist* will aid participating facilities in
 assessing their readiness to start the project and where further
 efforts may be required before beginning.
 
+## Types of e-triggers
 
+In the primary care setting, several types of e-triggers have been
+previously described.
 
+- Missed test results
+    - Colon cancer (FOBT, FIT, iron deficiency anemia)
+    - Lung cancer (imaging findings)
+    - TSH
+    - HCC (alpha-fetoprotein)
+    - Bladder cancer (hematuria)
+    - Mammography
+    - PSA
 
-FIXME
-
-A lot more emph on: FIND WHAT (dashboard) EXIST(S) and don't reinvent it.
-
-## Types of triggers
-
-- missed test
-- escalation
+- Care Escalation: Primary care visit followed closely by
+  hospitalization, ER, urgent care, or unplanned primary care visit.
 
 ## Case study
 
-To illustrate, etc etc., here is a case study:
+A short case study will illustrate the use of this guide. In
+particular, this is not a guide for only implementing an e-trigger,
+but a guide for *deciding* the best e-trigger to implement, *and then*
+proceeding to implement it.
 
-> little "box 1" case study, "greater LA found out that this was already implemented, so they decided to...."
+> The VA Greater Los Angeles Healthcare System wanted to implement an
+> e-trigger to improve follow-up of abnormal tests in primary care.
+> After performing some self-assessment activities, they found out
+> that a large initiative already existed for follow-up of abnormal
+> mammograms and lung imaging. On the other hand, they were aware of
+> suboptimal follow-up of outpatient unexplained hematuria,
+> contributed to by several system factors. Therefore, they selected a
+> bladder cancer (hematuria) e-trigger as their top e-trigger of
+> interest.
 
 
 

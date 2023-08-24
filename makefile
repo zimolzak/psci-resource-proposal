@@ -8,7 +8,7 @@ psci-proposal.pdf: README.md
 	pandoc -o $@ $<
 
 psci-proposal.docx: README.md
-	pandoc -o $@ $<
+	pandoc --reference-doc=custom-reference.docx -o $@ $<
 
 clean:
 	rm -f $(files)
