@@ -9,7 +9,7 @@ National Center for Patient Safety, focuses on measurement of
 diagnostic safety. Prior work by our DISCovery team includes the
 development of a series of Safer Dx framework-guided rules-based
 *e-triggers* that, via the electronic health record, facilitate the
-measurement of diagnostic errors in primary care and emergency
+identification of potential diagnostic errors in primary care and emergency
 department settings. The resulting set of Safer Dx e-triggers has
 undergone extensive testing and refinement. However, use at particular
 VA sites has necessitated extensive implementation help by our study
@@ -38,7 +38,7 @@ and improvement.
 # Development process
 
 We will approach the design and development of the *Safer Dx EnGAGE*
-resource iteratively, seeking feedback from stakeholders, including
+guide iteratively, seeking feedback from stakeholders, including
 potential organizational users and external subject matter experts
 along the way. We will solicit feedback on the overall content (e.g.,
 did we include all of the sections that would be needed for someone to
@@ -46,30 +46,30 @@ successfully implement triggers) as well as on the detailed content.
 Key steps include:
 
 1. Early in development, we will engage stakeholders to reach
-    consensus on the scope and general form of the resource. The
+    consensus on the scope and general form of the guide. The
     initial stakeholder meetings will be used to create a "shared
-    mental model" of the resource.
+    mental model" of the guide.
 
-2. We will iteratively design a working draft of the resource, working
+2. We will iteratively design a working draft of the guide, working
     with small groups of two or three people, focusing on (a) the
-    resource as a whole, and on (b) sections for which specific
+    guide as a whole, and on (b) sections for which specific
     content expertise is needed. Teams will include subject matter
-    experts and representative potential organizational users for the
-    resource. Their feedback (obtained using a series of coproduction
-    sessions) will be used to refine the resource's content and guide
+    experts and representative potential organizational users of the
+    guide. Their feedback (obtained using a series of coproduction
+    sessions) will be used to refine the guide's content and guide
     development of the remaining content.
 
 3. We will present a draft to key stakeholders and make additional
     refinements based on their feedback.
 
 4. We will conduct a pilot test to evaluate potential end users'
-    experiences of using the resource, the barriers/facilitators to
+    experiences of using the guide, the barriers/facilitators to
     acting on recommendations, and additional considerations for
-    dissemination and implementation of the resource.
+    dissemination and implementation of the guide.
 
-Although stakeholders will co-create the resource with us, we have
+Although stakeholders will co-create the guide with us, we have
 created an initial framework for what might go in the *Safer Dx
-EnGAGE* resource as a starting point. This is described below but will
+EnGAGE* guide as a starting point. This is described below but will
 likely change with stakeholder input.
 
 # Overview of Safer Dx EnGAGE
@@ -126,7 +126,7 @@ diagnostic safety measurement and its relevance to organizations.
 Users are introduced to the potential benefits of adopting strategies
 described in the toolkit. Users are also oriented to the general idea
 that VA Medical centers vary in their structure, organization, patient
-populations, and operational goals. As such there may be a need for
+populations, and operational goals. As such, there may be a need for
 some changes or additions to current practices at participating
 centers to prepare for the implementation of the Safer Dx e-triggers.
 Implementation of new measurement strategies and change management
@@ -143,12 +143,12 @@ participation of many individuals at any given site. For example,
 buy-in from leadership as well as the user community of an
 organization is necessary for successful implementation. This section
 will guide users to identify those interested and invested in use of
-e-triggers for diagnostic safety measurement as well as identify all
+e-triggers for diagnostic safety measurement, as well as identify all
 resources needed to accomplish e-trigger implementation.
 
 Key individuals within the organization may be involved in terms of
 implementing the e-triggers or refining content for the e-triggers.
-Individuals should work as an engaged team with dedicated hours to
+Individuals should work as an engaged team with protected time to
 facilitate e-trigger use. They may have different existing interests
 or roles within the organization, but they will need to come together
 to successfully use and learn from the e-triggers at their site. The
@@ -159,7 +159,7 @@ will describe possible roles on the stakeholder team, including:
 clinical leadership, clinical operations, project manager, quality
 improvement, patient safety, chart reviewer, data manager, system
 administrator, programmers, and developers. Additionally, a structured
-change management process will be outlined in the resource to
+change management process will be outlined in this section to
 facilitate the team’s work.
 
 
@@ -178,7 +178,7 @@ resources are available and enrolled on the project to:
 
 1. Determine what diagnostic safety tools already exist at the medical
     center. For example, what diagnostic tests already have a system
-    in place to promote closed-loop follow-up of abnormals? Or, what
+    in place to promote closed-loop follow-up of abnormal test results? Or, what
     data display or dashboard platforms already exist, which could be
     reused for new e-triggers?
 
@@ -241,11 +241,11 @@ points:
 2. Who will access the data warehouse and support the team with EHR
    queries?
 
-3. Is there a team member who understands clinical data
-   quality/validation?
+3. What is the process for requesting EHR data, running queries, and
+   generating reports?
 
-4.  Identify the process for requesting EHR data, running queries, and
-    generating reports
+4. Is there a team member who understands clinical data
+   quality/validation?
 
 Each site should decide who within the organization is ultimately
 going to receive the data, meaning who is going to take action based
@@ -281,7 +281,7 @@ data is again reviewed by chart reviewers.
 
 2. This information will provide feedback to the data
   analysts/programmers responsible for developing the e-trigger so
-  that they can incorporate changes to the data pull algorithm.
+  that they can incorporate changes to the data retrieval algorithm.
   Clinical stakeholders may suggest changes to the inclusion and
   exclusion criteria to the developers, who will revise the e-trigger
   code.
@@ -293,7 +293,7 @@ data is again reviewed by chart reviewers.
   relevance reach or exceed the agreed threshold.
 
 4. Once the e-trigger has been optimized and clinicians confirm its
-  accuracy to retrieve data identifying opportunities for diagnostic
+  accuracy, identifying opportunities for diagnostic
   safety improvements, this actionable information will be
   communicated to stakeholders (especially quality and safety
   personnel), who will need to become knowledgeable on how to
@@ -304,7 +304,7 @@ time-consuming but is necessary to ensure the e-trigger achieves the
 desired levels of accuracy and clinical relevance. Adequate time
 should be allocated in the local implementation timeline and project
 plan to accommodate this. Individual sites will determine how many
-cases they can sample to validate and review during the chart review
+cases they can sample to review and validate during the chart review
 process.
 
 As outlined earlier, implementing sites will decide who will review
