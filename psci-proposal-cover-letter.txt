@@ -1,6 +1,6 @@
-> Hardeep Singh, MD, MPH\
-> Professor of Medicine\
-> Baylor College of Medicine
+Hardeep Singh, MD, MPH\
+Professor of Medicine\
+Baylor College of Medicine
 
 Director, Houston DISCovery (Diagnosis Improvement Safety Center)
 
@@ -14,19 +14,29 @@ Michael E. DeBakey Veterans Affairs Medical Center
 
 Dear ____:
 
-My ____ and I are pleased to present a proposal for *title,* which
-will be a guide to implementing electronic triggers (e-triggers) for
-diagnostic safety at VA medical centers.
+My colleagues and I are pleased to present a proposal for *Safer Dx
+EnGAGE,* which will be a guide to implementing electronic triggers
+(e-triggers) for diagnostic safety at VA medical centers.
 
-We want to empahsize that this is the **proposal** for the guide, not an outline for the guide itself. We hope you and your staff will help us develop the guide, using this proposal coupled with your expertise.
+We want to empahsize that this is the **proposal** for the
+implementation guide, not an outline or draft of the guide itself.
+This means that the attached proposal document does **not** have the
+content or wording that the final guide will have. We hope you and
+your staff will help us develop the final implementation guide, using
+this proposal coupled with your expertise.
 
-This project will be good because ____
+This project will be advantageous because it will identify patients at
+risk for diagnostic safety events in primary care, via the electronic
+health record. This will take place not only at your VA medical
+center, but also a national level, once the implementation guide is
+disseminated.
 
-Again, the attached document is only the **proposal,** meaning it does
-not have the content or wording of the final guide, which we hope you
-will help us create.
+Thank you in advance for helping us turn this proposal into an
+implementation guide that any VA can use to improve diagnostic safety.
 
-Thank you in advance for your consideration.
+<br/>
+
+<br/>
 
 Best,
 
@@ -35,7 +45,7 @@ Best,
 <br/>
 
 Hardeep Singh, MD, MPH\
-Center for Innovations in Quality, Effectiveness, and Safety \
+Center for Innovations in Quality, Effectiveness and Safety\
 Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine\
 2002 Holcombe Blvd. 152\
 Houston TX 77030\
