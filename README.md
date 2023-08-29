@@ -2,19 +2,6 @@
 % Roni Matin; Ashley Meyer; Jennifer Sloane; Hardeep Singh; Andrew Zimolzak
 % 2023-08-29
 
-# Cover letter
-
-Dear ____:
-
-This is only a proposal for the tool.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt nulla in consectetur imperdiet. Suspendisse varius mauris orci, sit amet vehicula ligula mollis et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam ultricies odio nec dolor lacinia aliquet. Suspendisse vitae ullamcorper nisl. Morbi pharetra placerat lorem, nec venenatis justo finibus non. Nulla semper pellentesque arcu quis maximus. Vestibulum libero est, pharetra a imperdiet a, rutrum et ex. Curabitur at diam tellus. Nunc sollicitudin quis erat in semper. Proin condimentum vitae ante vitae finibus. Maecenas mollis tortor ut diam pretium ornare. Duis pulvinar orci sit amet eros tempus, sit amet vulputate dolor sodales. Aliquam erat volutpat. Proin at massa a lectus porta imperdiet. Etiam laoreet turpis eget consectetur bibendum.
-
-Sincerely yours,
-
-
-
-
 
 # Objective
 
@@ -95,8 +82,6 @@ measuring and preventing diagnostic errors). *Safer
 Dx EnGAGE* will proceed according to the following structure.
 
 * * *
-
-<br/>
 
 <br/>
 
