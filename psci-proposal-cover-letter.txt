@@ -1,6 +1,12 @@
-Hardeep Singh, MD, MPH\
-insert address\
-insert date
+> Hardeep Singh, MD, MPH\
+> Professor of Medicine\
+> Baylor College of Medicine
+
+Director, Houston DISCovery (Diagnosis Improvement Safety Center)
+
+Chief, Health Policy, Quality and Informatics Program,\
+Center for Innovations in Quality, Effectiveness and Safety\
+Michael E. DeBakey Veterans Affairs Medical Center
 
 <br/>
 
@@ -22,13 +28,15 @@ will help us create.
 
 Thank you in advance for your consideration.
 
-Sincerely yours,
+Best,
 
 <br/>
 
 <br/>
 
 Hardeep Singh, MD, MPH\
-insert title\
-Michael E.\ DeBakey VA Medical Center\
-Baylor College of Medicine
+Center for Innovations in Quality, Effectiveness, and Safety \
+Michael E. DeBakey Veterans Affairs Medical Center and Baylor College of Medicine\
+2002 Holcombe Blvd. 152\
+Houston TX 77030\
+Email: hardeeps@bcm.edu
