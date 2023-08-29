@@ -115,16 +115,19 @@ This guide will help you not only find patients at risk for diagnostic
 safety events, but *decide what events to focus on,* depending on your
 VAMC's current initiatives, priorities, and capabilities.
 
-The following table illustrates which sections of the guide are most
-relevant to which roles.
+Implementing e-triggers in practice must be a group effort, with no
+one person performing all the work. Everyone on the implementation
+team should read the complete guide, but the following table
+illustrates which sections of the guide also require input, contributions, or edits from
+certain team members.
 
 * * *
 
-**Section**  **2**  **3**  **4**  **5**  **6**  **7**
-----         ----   ----   ----   ----   ----   ----
-Champion     Yes    Yes    Yes    -      -      Yes
-Clinician    Yes    -      -      -      Yes    -
-IT           Yes    -      -      Yes    -      -
+**Section**  **2**          **3**            **4**            **5**            **6**            **7**
+----         ----           ----             ----             ----             ----             ----
+Champion     **read+edit**  **read+edit**    **read+edit**    read             read             **read+edit**
+Clinician    **read+edit**  read             read             read             **read+edit**    read
+IT           **read+edit**  read             read             **read+edit**    read             read
 
 * * *
 
