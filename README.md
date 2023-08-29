@@ -8,6 +8,8 @@ Dear ____:
 
 This is only a proposal for the tool.
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tincidunt nulla in consectetur imperdiet. Suspendisse varius mauris orci, sit amet vehicula ligula mollis et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aliquam ultricies odio nec dolor lacinia aliquet. Suspendisse vitae ullamcorper nisl. Morbi pharetra placerat lorem, nec venenatis justo finibus non. Nulla semper pellentesque arcu quis maximus. Vestibulum libero est, pharetra a imperdiet a, rutrum et ex. Curabitur at diam tellus. Nunc sollicitudin quis erat in semper. Proin condimentum vitae ante vitae finibus. Maecenas mollis tortor ut diam pretium ornare. Duis pulvinar orci sit amet eros tempus, sit amet vulputate dolor sodales. Aliquam erat volutpat. Proin at massa a lectus porta imperdiet. Etiam laoreet turpis eget consectetur bibendum.
+
 Sincerely yours,
 
 
@@ -88,11 +90,13 @@ likely change with stakeholder input.
 
 *Safer Dx EnGAGE* will guide VA facilities to implement e-triggers in
 primary care. It will broadly follow advice previously given in the
-*Measure Dx Resource*[^measure] (which advises hospital systems about
-measuring and preventing diagnostic errors). Like *Measure Dx*, *Safer
+*Measure Dx* resource[^measure] (which advises hospital systems about
+measuring and preventing diagnostic errors). *Safer
 Dx EnGAGE* will proceed according to the following structure.
 
 * * *
+
+<br/>
 
 <br/>
 
@@ -185,8 +189,8 @@ facilitate the team’s work.
 
 This section will guide sites to determine their priorities and
 understand how e-triggers could be employed to have the greatest
-impact. The *Measure Dx Organizational Readiness Checklist*[^appendix]
-will provide a framework for this step.[^measure] Sites will select
+impact. The *Measure Dx General Organizational Readiness Checklist*
+will provide a framework for this step. (See Part II, p.\ 8 of *Measure Dx*.[^appendix]) Sites will select
 one or more measurement strategies, and they will ensure that
 sufficient resources are available for diagnostic safety measurement
 activities. Sites must ensure sufficient personnel and technical
@@ -203,7 +207,7 @@ resources are available and enrolled on the project to:
 3. Respond effectively when opportunities for improvement are
     discovered.
 
-The *Measure Dx Checklist* will aid participating facilities in
+The *Measure Dx General Organizational Readiness Checklist* will aid participating facilities in
 assessing their readiness to start the project and where further
 efforts may be required before beginning.
 
@@ -376,7 +380,7 @@ availability of data relevant to the team's goal.
 
 What if you are a future user of *Safer Dx EnGAGE* who wants to
 implement e-triggers in a VA, but *using Cerner?* Or what if you
-happened upon this resource but don't work within VA?
+happened upon this guide but don't work within VA?
 
 This section will be analogous with a prior seven-step process about
 electronic trigger tools for diagnostic safety.[^application]
@@ -384,8 +388,8 @@ electronic trigger tools for diagnostic safety.[^application]
 
 
 
-[^measure]: Bradford A, Singh H. Measure Dx: A Resource To Identify,
-Analyze, and Learn From Diagnostic Safety Events. AHRQ Publication
+[^measure]: Bradford A, Singh H. *Measure Dx: A Resource To Identify,
+Analyze, and Learn From Diagnostic Safety Events*. AHRQ Publication
 22-0030. May 2022.
 
 [^model]: Sittig DF, Singh H. A new sociotechnical model for studying
@@ -399,10 +403,13 @@ health system. *Jt Comm J Qual Saf* 2021;47:120--26
 
 [^revised]: Singh H, *et al*. Recommendations for using the Revised
 Safer Dx Instrument to help measure and improve diagnostic safety.
-*Diagnosis (Berl)*. 2019 Nov 26;6(4):315--23.
+*Diagnosis (Berl)*. 2019 Nov 26;6(4):315--23. Also reproduced in the *Measure Dx* AHRQ Publication, Appendix D.
 
-[^appendix]: To be included in the final *Safer Dx EnGAGE* Resource as
-an appendix
+[^appendix]: The Measure Dx General Organizational Readiness Checklist
+will be included in the final *Safer Dx EnGAGE* guide as an
+appendix. Found in Section II, page 8 of: Bradford A, Singh H. *Measure Dx: A Resource To Identify,
+Analyze, and Learn From Diagnostic Safety Events*. AHRQ Publication
+22-0030. May 2022.
 
 [^toolkit]: See *VHA Directive 1088*, at
 va.gov/vhapublications/ViewPublication.asp?pub_ID=3148 and also the
