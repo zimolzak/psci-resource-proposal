@@ -1,6 +1,18 @@
 % VA DISCovery Resource Proposal for Safer Dx EnGAGE
 % Roni Matin; Ashley Meyer; Jennifer Sloane; Hardeep Singh; Andrew Zimolzak
-% 2023-08-23
+% 2023-08-29
+
+# Cover letter
+
+Dear ____:
+
+This is only a proposal for the tool.
+
+Sincerely yours,
+
+
+
+
 
 # Objective
 
@@ -86,7 +98,7 @@ Dx EnGAGE* will proceed according to the following outline.
 
 <br/>
 
-<div custom-style="TitleRepeat">Outline of Safer Dx EnGAGE</div>
+<div custom-style="TitleRepeat">Proposal for Safer Dx EnGAGE Contents</div>
 
 # (1) Why this guide?
 
