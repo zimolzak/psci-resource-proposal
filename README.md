@@ -123,11 +123,12 @@ certain team members.
 
 * * *
 
-**Section**  **2**          **3**            **4**            **5**            **6**            **7**
-----         ----           ----             ----             ----             ----             ----
-Champion     **read+edit**  **read+edit**    **read+edit**    read             read             **read+edit**
-Clinician    **read+edit**  read             read             read             **read+edit**    read
-IT           **read+edit**  read             read             **read+edit**    read             read
+**Section**       **2**          **3**            **4**            **5**            **6**            **7**
+----              ----           ----             ----             ----             ----             ----
+Champion          **read+edit**  **read+edit**    **read+edit**    read             read             **read+edit**
+Clinician         **read+edit**  read             read             read             **read+edit**    read
+Quality/Safety    **read+edit**  read             read             read             **read+edit**    read
+IT                **read+edit**  read             read             **read+edit**    read             read
 
 * * *
 
