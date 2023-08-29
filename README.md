@@ -90,7 +90,7 @@ likely change with stakeholder input.
 primary care. It will broadly follow advice previously given in the
 *Measure Dx Resource*[^measure] (which advises hospital systems about
 measuring and preventing diagnostic errors). Like *Measure Dx*, *Safer
-Dx EnGAGE* will proceed according to the following outline.
+Dx EnGAGE* will proceed according to the following structure.
 
 * * *
 
