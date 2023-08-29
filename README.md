@@ -250,11 +250,14 @@ proceeding to implement it.
 
 # (5) Strategy: Implement electronic health record-based trigger and prepare for chart review
 
-VA facilities may use EHR data to inform their measurement of
-diagnostic safety. This approach could also be augmented with the
-strategy of soliciting information about diagnostic safety directly
-from clinicians. Additionally, facilities should address the following
-points:
+This section will guide users---particularly information
+technology---in the practical aspects of implementing one or more new
+e-triggers at their facility, with attention to any existing safety
+feedback platforms at the facility. VA facilities may use EHR data to
+inform their measurement of diagnostic safety, and this approach could
+also be augmented with the strategy of soliciting information about
+diagnostic safety directly from clinicians. Additionally, facilities
+should address the following points:
 
 1. Identify the appropriate EHR data warehouse for queries
 
